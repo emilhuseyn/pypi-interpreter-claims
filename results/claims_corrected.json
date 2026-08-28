@@ -1,0 +1,194 @@
+{
+ "n": 1500,
+ "readable": 1449,
+ "status": {
+  "both_claims": 458,
+  "specifier_only": 487,
+  "neither_claim": 372,
+  "classifiers_only": 132,
+  "metadata_failed": 51
+ },
+ "inert_guard": {
+  "count": 504,
+  "pct": 34.78,
+  "neither": 372,
+  "classifiers_only": 132
+ },
+ "both_claims": 458,
+ "contradiction": {
+  "count": 10,
+  "pct": 2.18,
+  "rows": [
+   {
+    "project": "requests-connection-manager",
+    "spec": "<4.0,>=3.9",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8
+    ]
+   },
+   {
+    "project": "ipydraw",
+    "spec": ">=3.6",
+    "classifiers": [
+     4,
+     5,
+     6,
+     7
+    ],
+    "refused": [
+     4,
+     5
+    ]
+   },
+   {
+    "project": "rwb-tools",
+    "spec": ">=3.7",
+    "classifiers": [
+     5,
+     6,
+     7,
+     8
+    ],
+    "refused": [
+     5,
+     6
+    ]
+   },
+   {
+    "project": "swan-vis",
+    "spec": ">=3.8",
+    "classifiers": [
+     7
+    ],
+    "refused": [
+     7
+    ]
+   },
+   {
+    "project": "prolm",
+    "spec": ">=3.9",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8
+    ]
+   },
+   {
+    "project": "ApiLogicServer",
+    "spec": ">=3.10",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8,
+     9
+    ]
+   },
+   {
+    "project": "rd-undetected-chromedriver",
+    "spec": ">=3.10",
+    "classifiers": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "refused": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "project": "oxfel",
+    "spec": "<4.0,>=3.10.11",
+    "classifiers": [
+     9,
+     11,
+     12
+    ],
+    "refused": [
+     9
+    ]
+   },
+   {
+    "project": "simp-protocol",
+    "spec": ">=3.10",
+    "classifiers": [
+     9,
+     10,
+     11,
+     14
+    ],
+    "refused": [
+     9
+    ]
+   },
+   {
+    "project": "digy",
+    "spec": ">=3.9",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8
+    ]
+   }
+  ]
+ },
+ "page_silent": {
+  "count": 382,
+  "pct": 83.41
+ },
+ "unreleased_classifiers": [
+  {
+   "project": "certpeek",
+   "versions": [
+    15
+   ]
+  },
+  {
+   "project": "displayhooks",
+   "versions": [
+    15
+   ]
+  },
+  {
+   "project": "multicollections",
+   "versions": [
+    15
+   ]
+  },
+  {
+   "project": "akai-transform",
+   "versions": [
+    15
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3661 @@
+{
+ "n": 400,
+ "seed": 20260828,
+ "rows": [
+  {
+   "project": "laicpackage",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 0,
+   "dist": "laicpackage-0.0.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "inkawuvp-vertigo-camera",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "inkawuvp_vertigo_camera-0.0.1a2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "dummy-0532",
+   "status": "measured",
+   "requires_python": ">=3.7, <=3.10",
+   "floor": "3.7",
+   "files": 16,
+   "dist": "dummy-0532-0.3.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "genrss",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "Netflix-scraper",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 0,
+   "dist": "Netflix_scraper-0.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "scry-math",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "treasurykit",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pydeepxlsx",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 1,
+   "dist": "pydeepxlsx-1.0.4-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "rafiki",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "win32more-appsdk",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "EngimaEncryptionConcept",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "ambiexa",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 2,
+   "dist": "ambiexa-0.0.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "tui-file-explorer",
+   "status": "measured",
+   "requires_python": ">=3.14",
+   "floor": "3.14",
+   "files": 12,
+   "dist": "tui_file_explorer-0.1.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "webvpn-ng",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 5,
+   "dist": "webvpn_ng-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "odoo-addon-base-search-mail-content",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 7,
+   "dist": "odoo_addon_base_search_mail_content-18.0.1.0.2.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "gcp-pipeline-tester",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 33,
+   "dist": "gcp_pipeline_tester-1.0.29.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "lmlite",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 5,
+   "dist": "lmlite-0.2.4-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "leandro",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 7,
+   "dist": "leandro-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyampd",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "cloudmersive-currency-api-client",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pyfld",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 3,
+   "dist": "pyfld-0.6.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pgvector-azure-openai-mcp-server",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 25,
+   "dist": "pgvector_azure_openai_mcp_server-1.0.4-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "BucketUtils",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "TopoStateGrid",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 11,
+   "dist": "topostategrid-1.1.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyimporters-json",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 2,
+   "dist": "pyimporters_json-1.8.43.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "elasticipy",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 25,
+   "dist": "elasticipy-7.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "x-mcp-server",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 2,
+   "dist": "x_mcp_server-1.7.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "py3dgen",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 5,
+   "dist": "py3dgen-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "shortprint",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 14,
+   "dist": "shortprint-0.0.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [
+    "dataclasses needs 3.7"
+   ],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "chili-python-json-logger",
+   "status": "measured",
+   "requires_python": ">=3.4",
+   "floor": "3.4",
+   "files": 2,
+   "dist": "chili_python_json_logger-2.1.0-py34-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyxnat-ldax",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "modelflow",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "velopy",
+   "status": "measured",
+   "requires_python": ">3.6",
+   "floor": "3.7",
+   "files": 2,
+   "dist": "velopy-0.1.4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "lemapp",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "fense_logger",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 17,
+   "dist": "fense_logger-7.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "simple-rec",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 7,
+   "dist": "simple_rec-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "fit-lecture-indexer",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "gryphpilot",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 2,
+   "dist": "gryphpilot-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "sqprefect-tasks-kplib",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 205,
+   "dist": "sqprefect_tasks_kplib-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "TableScraper",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "TableScraper-0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "sage-ncs",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 77,
+   "dist": "sage_ncs-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "defrostir",
+   "status": "floor_unreadable",
+   "requires_python": ">=2.7"
+  },
+  {
+   "project": "simple-print",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 5,
+   "dist": "simple_print-2.2.8-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "topology-deployer",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 13,
+   "dist": "topology_deployer-0.2.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "rvm-valve",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 2,
+   "dist": "rvm_valve-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "cdk8s-plus-24",
+   "status": "measured",
+   "requires_python": "~=3.7",
+   "floor": "3.7",
+   "files": 3,
+   "dist": "cdk8s-plus-24-2.12.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "ai_sec",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.10",
+   "floor": "3.10",
+   "files": 38,
+   "dist": "ai_sec-0.0.9.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "unfazed-checkpointer",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 7,
+   "dist": "unfazed_checkpointer-0.0.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "quillai-filescanner",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 8,
+   "dist": "quillai_filescanner-1.0.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "odoo11-addons-oca-sale-reporting",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "html-css-gen",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "hound-dog",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pytonaccess",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "tfest",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 3,
+   "dist": "tfest-0.2.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "am-trade-sdk",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 1,
+   "dist": "am_trade_sdk-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "byprice-scraping-tools",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "python-slimta-diskstorage",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pyconnectedcomponent",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "distributions-3",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "waybackup",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "app-intel-api",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 2,
+   "dist": "app_intel_api-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "aiva-core",
+   "status": "measured",
+   "requires_python": ">=3.10,<4.0",
+   "floor": "3.10",
+   "files": 28,
+   "dist": "aiva_core-0.1.6.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "async-substrate-interface",
+   "status": "measured",
+   "requires_python": "<3.15,>=3.10",
+   "floor": "3.10",
+   "files": 17,
+   "dist": "async_substrate_interface-2.2.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "seg-for-4modalities",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "cli-web-youtube",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 24,
+   "dist": "cli_web_youtube-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "rapids-env-generator",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "TheWatcher",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 28,
+   "dist": "thewatcher-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "provenance-client",
+   "status": "measured",
+   "requires_python": ">=3.13",
+   "floor": "3.13",
+   "files": 15,
+   "dist": "provenance_client-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "fast-unit",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "youtubei",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.10",
+   "floor": "3.10",
+   "files": 186,
+   "dist": "youtubei-0.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pycloudmessenger",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 14,
+   "dist": "pycloudmessenger-0.8.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "zuzuvibhu",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "mutable-print",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.8",
+   "floor": "3.8",
+   "files": 4,
+   "dist": "mutable_print-1.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "kuzu-grid-schema",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 10,
+   "dist": "kuzu_grid_schema-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "iflow-mcp_ww-ai-lab-awesome-mcp-scaffold",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 16,
+   "dist": "iflow_mcp_ww_ai_lab_awesome_mcp_scaffold-1.0.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "timeout",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "CP2K-Parser",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 3,
+   "dist": "CP2K_Parser-2.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "trajtracker",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "homography",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "porthos-python",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "netflux",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 40,
+   "dist": "netflux-0.3.5-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "nirfmxbluetooth",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.9",
+   "floor": "3.9",
+   "files": 49,
+   "dist": "nirfmxbluetooth-26.5.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "simplebot-downloader",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "azure-cli-dla",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "stock-market-lib",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 39,
+   "dist": "stock-market-lib-0.7.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "phpshift",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "run-weeklychallenge",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 1,
+   "dist": "run_weeklychallenge-1.0.6.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "chora-manifest",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 23,
+   "dist": "chora_manifest-0.1.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "odoo-addon-edi-account-core-oca",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 5,
+   "dist": "odoo_addon_edi_account_core_oca-18.0.1.1.1.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "vdk-control-service-api",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "example-package-Jahnvi",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "example-package-Jahnvi-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "rdwv",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 23,
+   "dist": "rdwv-1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "listgits",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 3,
+   "dist": "listgits-2.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "hello-pkg-yourname",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 3,
+   "dist": "hello_pkg_yourname-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "avni",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 42,
+   "dist": "avni-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "rvd-distributions",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "cupy-cuda113",
+   "status": "no_distribution_under_cap",
+   "requires_python": ">=3.7",
+   "floor": "3.7"
+  },
+  {
+   "project": "concierge",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "grasp2alm",
+   "status": "measured",
+   "requires_python": "<3.13,>=3.9",
+   "floor": "3.9",
+   "files": 8,
+   "dist": "grasp2alm-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "ftoimage",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "aws-authenticator-cli",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 5,
+   "dist": "aws_authenticator_cli-0.0.5-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": [
+    "tomllib needs 3.11"
+   ]
+  },
+  {
+   "project": "s3-image-optimizer",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "hctsa",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "animalid",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "fastapi-auth2",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 9,
+   "dist": "fastapi_auth2-1.0.6.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "micro-statemachine",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 1,
+   "dist": "micro_statemachine-0.1.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "cone.app",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 61,
+   "dist": "cone_app-1.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "bee-django-coin",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "nttnoperations",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "passagemath-mcqd",
+   "status": "measured",
+   "requires_python": "<3.15,>=3.11",
+   "floor": "3.11",
+   "files": 4,
+   "dist": "passagemath_mcqd-10.8.10.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "requesto-py",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 6,
+   "dist": "requesto_py-1.2.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "scchainserverlite-6-5",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 59,
+   "dist": "scchainserverlite_6_5-4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "GSLB",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 42,
+   "dist": "GSLB-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "enlaypy",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "YMLEditor",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 9,
+   "dist": "ymleditor-1.8.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "nester_jyyy",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "probability-dists",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pykwiki2",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "ddpm",
+   "status": "measured",
+   "requires_python": "<3.10,>=3.7",
+   "floor": "3.7",
+   "files": 5,
+   "dist": "ddpm-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "alibabacloud-paiplugin20210325-py2",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "corex-ai-vision-yolov5",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 4,
+   "dist": "corex_ai_vision_yolov5-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "netception",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "dsd-cloudron",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 31,
+   "dist": "dsd_cloudron-2026.7.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "deepprojection",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 11,
+   "dist": "DeepProjection-1.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "biqbin",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "iflow-mcp_aidc-ai-pixelle",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 98,
+   "dist": "iflow_mcp_aidc_ai_pixelle-0.1.16.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "django-whoshere",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "wix-protos-proto-fwg-frontend-servers-shared",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "wix-protos-proto-fwg-frontend-servers-shared-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "websc-client",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 4,
+   "dist": "websc_client-1.0.4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "thonny-html-highlight",
+   "status": "measured",
+   "requires_python": ">=3.13",
+   "floor": "3.13",
+   "files": 3,
+   "dist": "thonny_html_highlight-0.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "topsis-harnoor-102303260",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 1,
+   "dist": "topsis_harnoor_102303260-0.1.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "similaritycache",
+   "status": "measured",
+   "requires_python": ">=3.13",
+   "floor": "3.13",
+   "files": 3,
+   "dist": "similaritycache-0.1.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "discord-bot-maker",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 4,
+   "dist": "discord_bot_maker-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pysde",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pyhyperledger",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pd-examples",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "micropython-cpython-ustruct",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "geonaksaa",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "geonaksaa-0.0.1-py2.py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "dataflame",
+   "status": "measured",
+   "requires_python": ">3.6.0",
+   "floor": "3.7",
+   "files": 12,
+   "dist": "dataflame-1.0.6b0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "SortingAPI",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "amano",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 15,
+   "dist": "amano-0.2.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "numbering",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 5,
+   "dist": "numbering-0.1.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "mitol-django-scim",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 19,
+   "dist": "mitol_django_scim-2026.4.29.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "dypendence",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "dypendence-0.1.6.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pydantic-sqlalchemy-mapper",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.10",
+   "floor": "3.10",
+   "files": 3,
+   "dist": "pydantic_sqlalchemy_mapper-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "anima-reachy-conversation",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 5,
+   "dist": "anima_reachy_conversation-0.0.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "FukuML",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "suntimes-Test-pmathis",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "Yoku",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "shotgun-extensions",
+   "status": "measured",
+   "requires_python": ">=3.7.0",
+   "floor": "3.7",
+   "files": 7,
+   "dist": "shotgun_extensions-1.0.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "nmpyc",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "krakenexapi",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 2,
+   "dist": "krakenexapi-0.0.1-py2.py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "RankChem",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "RankChem-1.2.5-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "appimages-manager",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pkg-temp",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 2,
+   "dist": "pkg_temp-0.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "du-aio-tools",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 9,
+   "dist": "du_aio_tools-0.0.19.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "odoo10-addon-sale-product-set",
+   "status": "floor_unreadable",
+   "requires_python": "~=2.7"
+  },
+  {
+   "project": "collective.cssgridsystem",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "tassadar",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.10",
+   "floor": "3.10",
+   "files": 6,
+   "dist": "tassadar-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "wix-protos-payment-payment-settings-api-v2",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "wix-protos-payment-payment-settings-api-v2-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "xsms",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "python-gdrive",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "example-pkg-vwinnv",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "example-pkg-vwinnv-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "vatis-asr-client",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 16,
+   "dist": "vatis_asr_client-1.2.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "DieBohnen",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "DieBohnen-0.0.3-py2.py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "nico_nester",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "bazregarimodule",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "awesome-kreport-charts",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pymarine",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "jo_story",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "Qanary-NER-AutoML-component",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 751,
+   "dist": "qanary_ner_automl_component-1.0.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": [
+    "tomllib needs 3.11"
+   ]
+  },
+  {
+   "project": "minotaur-manticore-maze",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "torrent-edit",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 2,
+   "dist": "torrent_edit-0.1.5-py3-none-any.whl",
+   "syntax_violations": 1,
+   "syntax_examples": [
+    "torrent_edit/core.py"
+   ],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "sneko",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 6,
+   "dist": "sneko-0.1.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": [
+    "tomllib needs 3.11"
+   ]
+  },
+  {
+   "project": "schooloam",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pacspeddbase",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 1,
+   "dist": "pacspeddbase-0.2-cp312-none-win32.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "coregix",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 11,
+   "dist": "coregix-0.3.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "peak-locator",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 26,
+   "dist": "peak_locator-1.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "fttlib",
+   "status": "measured",
+   "requires_python": ">=3.1",
+   "floor": "3.1",
+   "files": 2,
+   "dist": "fttlib-1.1.9-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [
+    "enum needs 3.4"
+   ],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "ipychart",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 9,
+   "dist": "ipychart-0.5.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pythondata-cpu-marocchino",
+   "status": "measured",
+   "requires_python": ">=3.5",
+   "floor": "3.5",
+   "files": 2,
+   "dist": "pythondata-cpu-marocchino-0.0.post209.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "setta",
+   "status": "measured",
+   "requires_python": ">=3.0",
+   "floor": "3.0",
+   "files": 2,
+   "dist": "setta-0.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "Topsis-Aradhak-102103078",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "Topsis_Aradhak_102103078-0.0.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "zshpower",
+   "status": "measured",
+   "requires_python": ">=3.9,<4.0",
+   "floor": "3.9",
+   "files": 78,
+   "dist": "zshpower-0.12.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pipeline-vilma",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 24,
+   "dist": "pipeline_vilma-0.0.32-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "postman-py",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 2,
+   "dist": "postman_py-0.2.0-py2.py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "ertk",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 146,
+   "dist": "ertk-2024.4.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "PyMusicPlayer",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "bitquote-client",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "synapse-room-access-rules",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 6,
+   "dist": "synapse-room-access-rules-1.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "fast-ta",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "gosnmp-python",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "cb",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pyZink",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "koslang",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "koslang-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "ec",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "PaIRS-UniNa",
+   "status": "no_distribution_under_cap",
+   "requires_python": ">=3.10",
+   "floor": "3.10"
+  },
+  {
+   "project": "barfi-ext",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 15,
+   "dist": "barfi-ext-0.8.1.1.tar.gz",
+   "syntax_violations": 2,
+   "syntax_examples": [
+    "barfi-ext-0.8.1.1/tests/demo.py",
+    "barfi-ext-0.8.1.1/tests/test_app.py"
+   ],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pandaSearch",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "tend-odoo",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "mercado-livre-affiliates",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 48,
+   "dist": "mercado_livre_affiliates-1.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pexpect-py3-patch",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "youzi-robot",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 18,
+   "dist": "youzi_robot-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyutils-collection",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 590,
+   "dist": "pyutils_collection-0.1.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "transcript-tagger",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 6,
+   "dist": "transcript_tagger-0.1.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "iil-django-tenancy",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 36,
+   "dist": "iil_django_tenancy-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "lambda-rag-lite",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 18,
+   "dist": "lambda_rag_lite-0.2.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "toypackage",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 3,
+   "dist": "toypackage-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "wolf-comm",
+   "status": "measured",
+   "requires_python": ">=3.14",
+   "floor": "3.14",
+   "files": 7,
+   "dist": "wolf_comm-0.0.52-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "acrylic",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 8,
+   "dist": "acrylic-0.3.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "phyton",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 1,
+   "dist": "phyton-1.0.0a1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "osmo",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "admina-core",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 0,
+   "dist": "admina_core-0.11.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "affect-kernel",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 12,
+   "dist": "affect_kernel-0.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyasn1-lextudio",
+   "status": "measured",
+   "requires_python": ">=3.7,<4.0",
+   "floor": "3.7",
+   "files": 35,
+   "dist": "pyasn1_lextudio-1.1.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "l18n",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "rlrunner",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 17,
+   "dist": "rlrunner-1.0.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "philiprehberger-type-guard",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 1,
+   "dist": "philiprehberger_type_guard-0.2.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "of-mcp",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 5,
+   "dist": "of_mcp-0.1.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "hello-lib",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 2,
+   "dist": "hello_lib-0.0.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "statemachines-orchestrator",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 4,
+   "dist": "statemachines_orchestrator-0.0.4-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "symboliczinc",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "csputils",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "trytond_health_lifestyle",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "navneetop",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "shipyard-looker",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.9",
+   "floor": "3.9",
+   "files": 8,
+   "dist": "shipyard_looker-0.2.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "sphinx-autosummary-accessors",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 4,
+   "dist": "sphinx_autosummary_accessors-2025.3.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "odoo13-addon-scrap-reason-code",
+   "status": "measured",
+   "requires_python": ">=3.5",
+   "floor": "3.5",
+   "files": 9,
+   "dist": "odoo13_addon_scrap_reason_code-13.0.1.1.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "truckfactor",
+   "status": "measured",
+   "requires_python": "<3.13,>=3.9",
+   "floor": "3.9",
+   "files": 4,
+   "dist": "truckfactor-0.3.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "dapr-microservice-cli",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 13,
+   "dist": "dapr-microservice-cli-0.0.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "Functions-ITA-MVO-41",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "mechanicsdsl-core",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 142,
+   "dist": "mechanicsdsl_core-2.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "django-taylogger-middleware",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "geoslurp",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 121,
+   "dist": "geoslurp-4.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "leaflet-render",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "scrapegraph-mcp",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 2,
+   "dist": "scrapegraph_mcp-1.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "buildkite-test-collector",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 12,
+   "dist": "buildkite_test_collector-1.9.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "invoicing-pdf-mrm",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "squarespace",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "chibot",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "lang-localization",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "certora-cli-blockswap",
+   "status": "no_distribution_under_cap",
+   "requires_python": ">=3.5",
+   "floor": "3.5"
+  },
+  {
+   "project": "gamma-logger",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 2,
+   "dist": "gamma_logger-0.2.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "inframe",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 7,
+   "dist": "inframe-0.2.10-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "curls",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "sendme",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 5,
+   "dist": "sendme-2024.9.28-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "thaumio",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 10,
+   "dist": "thaumio-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "lmcp-tool-builder",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "iflow-mcp_google-news-trends-mcp",
+   "status": "measured",
+   "requires_python": ">=3.10.18",
+   "floor": "3.10",
+   "files": 5,
+   "dist": "iflow_mcp_google_news_trends_mcp-0.2.6-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "salesforce-bulkipy",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "tkl",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 2,
+   "dist": "tkl-0.9.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "airbyte-source-younium",
+   "status": "measured",
+   "requires_python": "<3.12,>=3.9",
+   "floor": "3.9",
+   "files": 4,
+   "dist": "airbyte_source_younium-0.3.22-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "vizro-ai",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 8,
+   "dist": "vizro_ai-0.4.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "lnpanda",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 2,
+   "dist": "lnpanda-0.2.4-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "hyfi-chain",
+   "status": "measured",
+   "requires_python": "<3.13,>=3.9",
+   "floor": "3.9",
+   "files": 4,
+   "dist": "hyfi_chain-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "python-slugify",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 5,
+   "dist": "python_slugify-8.0.4-py2.py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "soft-assert",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "falcon-morpheus-module",
+   "status": "measured",
+   "requires_python": ">=3.7,<4.0",
+   "floor": "3.7",
+   "files": 2,
+   "dist": "falcon_morpheus_module-0.0.13.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "stups-fullstop",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "investdaytip",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 21,
+   "dist": "investdaytip-0.9.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "olnesty",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "alphadev",
+   "status": "measured",
+   "requires_python": ">=3.6,<4.0",
+   "floor": "3.6",
+   "files": 5,
+   "dist": "alphadev-0.0.3-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [
+    "dataclasses needs 3.7"
+   ],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "neurata",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 36,
+   "dist": "neurata-1.4.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "TOPSIS-VarunSachdeva-101803123",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "fackup",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "jaxtfwaves",
+   "status": "measured",
+   "requires_python": ">=3.13",
+   "floor": "3.13",
+   "files": 21,
+   "dist": "jaxtfwaves-1.0.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "notmuch",
+   "status": "measured",
+   "requires_python": ">=3.7,<4.0",
+   "floor": "3.7",
+   "files": 15,
+   "dist": "notmuch-0.29.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyeasy-crc",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 12,
+   "dist": "pyeasy_crc-0.0.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "hw-python-show-graph-lib",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pap-spinel",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 6,
+   "dist": "pap_spinel-0.0.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "nameko-vault",
+   "status": "measured",
+   "requires_python": ">=3.6,<4.0",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "nameko_vault-0.4.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "latin-scansion",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 6,
+   "dist": "latin_scansion-0.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "orchestrator-service",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "dScriptModule",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 7,
+   "dist": "dScriptModule-3.4.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "Pyppex",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "op-aws-vault",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 1,
+   "dist": "op_aws_vault-0.0.9-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "hls-download-client",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "benfordviz",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "amISelected",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 2,
+   "dist": "amiselected-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "oy-client",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 14,
+   "dist": "oy-client-0.1.4.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "base36",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "chClassifier",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "sim32",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 19,
+   "dist": "sim32-2.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "gpt-scientist",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "isosurfaces",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 6,
+   "dist": "isosurfaces-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "resumate",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 27,
+   "dist": "resumate-0.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "perfect-strangers",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 18,
+   "dist": "perfect_strangers-0.3.3-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "fleck",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 18,
+   "dist": "fleck-1.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "im-futuretest-flask",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "odoo12-addon-stock-picking-return-restricted-qty",
+   "status": "measured",
+   "requires_python": ">=3.5",
+   "floor": "3.5",
+   "files": 6,
+   "dist": "odoo12_addon_stock_picking_return_restricted_qty-12.0.1.0.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "hafiz",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 19,
+   "dist": "hafiz-1.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "xgh-t",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "nlloc",
+   "status": "measured",
+   "requires_python": ">=3.8,<4.0",
+   "floor": "3.8",
+   "files": 13,
+   "dist": "nlloc-0.2.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "edudat",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pymod-init",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "displacement",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 2,
+   "dist": "displacement-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "mdemos.menus",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "agentdojo",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 99,
+   "dist": "agentdojo-0.1.35-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "tes-thermo",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "pyerepfit",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "pyahooapis",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "ciaf-agents",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 16,
+   "dist": "ciaf_agents-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "acsync-core",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 1,
+   "dist": "acsync_core-1.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "audit-luke",
+   "status": "measured",
+   "requires_python": ">=3.9,<4.0",
+   "floor": "3.9",
+   "files": 6,
+   "dist": "audit-luke-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "PyMicrotops",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "jepson-aliyun-oss-python-sdk-managed-credentials-provider",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "weaviate-cli",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 33,
+   "dist": "weaviate_cli-3.4.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "multicall-zksync",
+   "status": "measured",
+   "requires_python": ">=3.8,<3.11",
+   "floor": "3.8",
+   "files": 9,
+   "dist": "multicall_zksync-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "iplib3",
+   "status": "measured",
+   "requires_python": ">=3.9.0,<4.0.0",
+   "floor": "3.9",
+   "files": 10,
+   "dist": "iplib3-0.2.4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "wnm",
+   "status": "measured",
+   "requires_python": ">=3.12.3",
+   "floor": "3.12",
+   "files": 29,
+   "dist": "wnm-0.6.3-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "agent-mcp-framework",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 7,
+   "dist": "agent_mcp_framework-0.2.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "response-handler-lib",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 15,
+   "dist": "response_handler_lib-0.2.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "ner-utils",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "fleet-rlm",
+   "status": "measured",
+   "requires_python": "<3.14,>=3.11",
+   "floor": "3.11",
+   "files": 186,
+   "dist": "fleet_rlm-0.7.4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "advice-animal",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 8,
+   "dist": "advice_animal-0.4.5-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "flowmesh-hook",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 6,
+   "dist": "flowmesh_hook-0.1.7.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "types-boto3-fsx",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 7,
+   "dist": "types_boto3_fsx-1.43.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "nya-codeblock",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 5,
+   "dist": "nya_codeblock-0.1.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "djangoly",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "ebesumusic",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "llm-usage-horizon",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 30,
+   "dist": "llm_usage_horizon-0.1.5-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "omarpdfv100",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "org.iplatform",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 35,
+   "dist": "org.iplatform-0.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "django-http-referrer-policy",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "wix-protos-answers-streams-prod-config-answers-config",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "wix-protos-answers-streams-prod-config-answers-config-0.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyfalldown",
+   "status": "measured",
+   "requires_python": "<4.0,>=3.10",
+   "floor": "3.10",
+   "files": 24,
+   "dist": "pyfalldown-0.1.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "crewai-logging-patch",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "collective.behavior.lastmodifier",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 11,
+   "dist": "collective.behavior.lastmodifier-1.0.0rc2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "splitapiclient",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "CubicBezier",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "liber",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 3,
+   "dist": "liber-1.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "odoo8-addon-partner-street-number",
+   "status": "floor_unreadable",
+   "requires_python": "~=2.7"
+  },
+  {
+   "project": "Selenium-Screenshot",
+   "status": "measured",
+   "requires_python": ">=3.6.1",
+   "floor": "3.6",
+   "files": 5,
+   "dist": "selenium_screenshot-3.0.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "combina-cpp-and-py",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "funlp",
+   "status": "measured",
+   "requires_python": ">=3.6.0",
+   "floor": "3.6",
+   "files": 12,
+   "dist": "funlp-0.1.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "freepbx-bulk-handler",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 3,
+   "dist": "freepbx_bulk_handler-0.61.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "json4e",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "climate-toolkit",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 74,
+   "dist": "climate_toolkit-0.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pwvault",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 9,
+   "dist": "pwvault-0.1.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "psyserver",
+   "status": "no_distribution_under_cap",
+   "requires_python": "<3.12,>=3.11",
+   "floor": "3.11"
+  },
+  {
+   "project": "rest-example-jamesooo",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "rvprog",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 1,
+   "dist": "rvprog-1.10.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "KID-pipeline",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "onedriveintegrate",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "nela-features",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "csv2jsonl",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "mesh-air-quality",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "annotell-base-clients",
+   "status": "measured",
+   "requires_python": "~=3.6",
+   "floor": "3.6",
+   "files": 9,
+   "dist": "annotell-base-clients-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "certificate-watcher",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 1,
+   "dist": "certificate_watcher-0.2.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "cleverdiff",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 11,
+   "dist": "cleverdiff-0.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "django-signedforms",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "lavda",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "connections",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "prefab",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 11,
+   "dist": "prefab-1.6.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "uQCme",
+   "status": "measured",
+   "requires_python": "<3.15,>=3.12",
+   "floor": "3.12",
+   "files": 15,
+   "dist": "uqcme-0.9.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "xy-face-ps",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "ttwidgets",
+   "status": "measured",
+   "requires_python": ">=3.5",
+   "floor": "3.5",
+   "files": 5,
+   "dist": "ttwidgets-1.1.3.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "clearvoice",
+   "status": "measured",
+   "requires_python": ">=3.8",
+   "floor": "3.8",
+   "files": 65,
+   "dist": "clearvoice-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pyassuan",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "HomeCopy",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 12,
+   "dist": "homecopy-0.9.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pxcloud",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 6,
+   "dist": "pxcloud-0.2.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "my-gaubi-distributions",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "amazon-braket-sdk",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 173,
+   "dist": "amazon_braket_sdk-1.126.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "CipherSmith",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 5,
+   "dist": "ciphersmith-1.3.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "chtext",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 3,
+   "dist": "chtext-1.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "log-formatter-oc",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 1,
+   "dist": "log_formatter_oc-0.4.5.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "django-zoneke-contrib",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "w-annotation",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "Fast-Permissions",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 7,
+   "dist": "fast_permissions-0.2.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "amarillo-stops",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "simran-101703545-outlier",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "argload",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "mplplot",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "willj",
+   "status": "measured",
+   "requires_python": ">=3.12",
+   "floor": "3.12",
+   "files": 2,
+   "dist": "willj-0.1.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "simple2d",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "AnDOviewer",
+   "status": "measured",
+   "requires_python": ">=3.6",
+   "floor": "3.6",
+   "files": 4,
+   "dist": "AnDOviewer-0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "spacebench",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 18,
+   "dist": "spacebench-0.1.4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "UW-RestClients-HRP",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "tuple-flatten",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "bert-for-tf2",
+   "status": "measured",
+   "requires_python": ">=3.5",
+   "floor": "3.5",
+   "files": 23,
+   "dist": "bert-for-tf2-0.14.9.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "dnsight",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 106,
+   "dist": "dnsight-1.0.2-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "vridge-test",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "btrfs-quota",
+   "status": "measured",
+   "requires_python": ">3.5.*",
+   "floor": "3.6",
+   "files": 2,
+   "dist": "btrfs-quota-0.1.0.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "mobile-agent-mcp",
+   "status": "metadata_failed"
+  },
+  {
+   "project": "similardata",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "ableton-osc-mcp",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 25,
+   "dist": "ableton_osc_mcp-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pypetgraph",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 7,
+   "dist": "pypetgraph-1.0.1.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "gosling-widget",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 4,
+   "dist": "gosling-widget-0.0.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "orli",
+   "status": "measured",
+   "requires_python": "<3.14,>=3.10",
+   "floor": "3.10",
+   "files": 31,
+   "dist": "orli-0.0.2.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "mcp-audit-trail",
+   "status": "measured",
+   "requires_python": ">=3.10",
+   "floor": "3.10",
+   "files": 4,
+   "dist": "mcp_audit_trail-0.1.1-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "pysavi",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "swadr",
+   "status": "no_requires_python",
+   "requires_python": null
+  },
+  {
+   "project": "apibeat",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 4,
+   "dist": "apibeat-0.1.8.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "bsaseq",
+   "status": "measured",
+   "requires_python": "<3.14,>=3.9",
+   "floor": "3.9",
+   "files": 25,
+   "dist": "bsaseq-1.0.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "kw-ancillary-clients",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "coala-runtime",
+   "status": "measured",
+   "requires_python": ">=3.11",
+   "floor": "3.11",
+   "files": 13,
+   "dist": "coala_runtime-0.1.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "my-jupyter-shared-drive",
+   "status": "measured",
+   "requires_python": ">=3.9",
+   "floor": "3.9",
+   "files": 1,
+   "dist": "my_jupyter_shared_drive-0.4.0-py3-none-any.whl",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "django-asyncviews",
+   "status": "no_requires_python",
+   "requires_python": ""
+  },
+  {
+   "project": "Swaiter",
+   "status": "measured",
+   "requires_python": ">=3.7",
+   "floor": "3.7",
+   "files": 1,
+   "dist": "Swaiter-1.0.4.tar.gz",
+   "syntax_violations": 0,
+   "syntax_examples": [],
+   "stdlib_violations": [],
+   "stdlib_guarded": []
+  },
+  {
+   "project": "adval",
+   "status": "no_requires_python",
+   "requires_python": ""
+  }
+ ]
+}

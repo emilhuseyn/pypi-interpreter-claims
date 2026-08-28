@@ -1,0 +1,508 @@
+{
+ "frame": {
+  "index_size": 879335,
+  "seed": 20260828,
+  "drawn": 1500,
+  "readable": 1449
+ },
+ "status": {
+  "read": 1449,
+  "metadata_failed": 51
+ },
+ "publishes": {
+  "requires_python": {
+   "k": 945,
+   "n": 1449,
+   "pct": 65.2174,
+   "lo": 62.7277,
+   "hi": 67.6266
+  },
+  "classifiers": {
+   "k": 590,
+   "n": 1449,
+   "pct": 40.7177,
+   "lo": 38.2158,
+   "hi": 43.2688
+  },
+  "wheels": {
+   "k": 1160,
+   "n": 1449,
+   "pct": 80.0552,
+   "lo": 77.9195,
+   "hi": 82.032
+  }
+ },
+ "combinations": {
+  "spec=True|cls=True|whl=True": 442,
+  "spec=True|cls=False|whl=True": 465,
+  "spec=False|cls=False|whl=False": 194,
+  "spec=False|cls=False|whl=True": 178,
+  "spec=False|cls=True|whl=True": 75,
+  "spec=False|cls=True|whl=False": 57,
+  "spec=True|cls=False|whl=False": 22,
+  "spec=True|cls=True|whl=False": 16
+ },
+ "inert_guard": {
+  "k": 504,
+  "n": 1449,
+  "pct": 34.7826,
+  "lo": 32.3734,
+  "hi": 37.2723
+ },
+ "page_vs_spec": {
+  "both": 458,
+  "page_overstates": {
+   "k": 10,
+   "n": 458,
+   "pct": 2.1834,
+   "lo": 1.1902,
+   "hi": 3.9721
+  },
+  "ghost": {
+   "k": 4,
+   "n": 458,
+   "pct": 0.8734,
+   "lo": 0.3401,
+   "hi": 2.2239
+  },
+  "open_end": {
+   "k": 382,
+   "n": 458,
+   "pct": 83.4061,
+   "lo": 79.7239,
+   "hi": 86.5326
+  },
+  "rows": [
+   {
+    "project": "requests-connection-manager",
+    "spec": "<4.0,>=3.9",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8
+    ]
+   },
+   {
+    "project": "ipydraw",
+    "spec": ">=3.6",
+    "classifiers": [
+     4,
+     5,
+     6,
+     7
+    ],
+    "refused": [
+     4,
+     5
+    ]
+   },
+   {
+    "project": "rwb-tools",
+    "spec": ">=3.7",
+    "classifiers": [
+     5,
+     6,
+     7,
+     8
+    ],
+    "refused": [
+     5,
+     6
+    ]
+   },
+   {
+    "project": "swan-vis",
+    "spec": ">=3.8",
+    "classifiers": [
+     7
+    ],
+    "refused": [
+     7
+    ]
+   },
+   {
+    "project": "prolm",
+    "spec": ">=3.9",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8
+    ]
+   },
+   {
+    "project": "ApiLogicServer",
+    "spec": ">=3.10",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8,
+     9
+    ]
+   },
+   {
+    "project": "rd-undetected-chromedriver",
+    "spec": ">=3.10",
+    "classifiers": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "refused": [
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "project": "oxfel",
+    "spec": "<4.0,>=3.10.11",
+    "classifiers": [
+     9,
+     11,
+     12
+    ],
+    "refused": [
+     9
+    ]
+   },
+   {
+    "project": "simp-protocol",
+    "spec": ">=3.10",
+    "classifiers": [
+     9,
+     10,
+     11,
+     14
+    ],
+    "refused": [
+     9
+    ]
+   },
+   {
+    "project": "digy",
+    "spec": ">=3.9",
+    "classifiers": [
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ],
+    "refused": [
+     8
+    ]
+   }
+  ],
+  "ghost_rows": [
+   {
+    "project": "certpeek",
+    "versions": [
+     15
+    ]
+   },
+   {
+    "project": "displayhooks",
+    "versions": [
+     15
+    ]
+   },
+   {
+    "project": "multicollections",
+    "versions": [
+     15
+    ]
+   },
+   {
+    "project": "akai-transform",
+    "versions": [
+     15
+    ]
+   }
+  ]
+ },
+ "wheel_tags": {
+  "both": 907,
+  "constraining": {
+   "k": 35,
+   "n": 907,
+   "pct": 3.8589,
+   "lo": 2.7875,
+   "hi": 5.3194
+  },
+  "universal": {
+   "k": 872,
+   "n": 907,
+   "pct": 96.1411,
+   "lo": 94.6806,
+   "hi": 97.2125
+  }
+ },
+ "source_vs_claim": {
+  "measured": 1368,
+  "declaring": 872,
+  "silent": 496,
+  "contradicts": {
+   "k": 19,
+   "n": 872,
+   "pct": 2.1789,
+   "lo": 1.3993,
+   "hi": 3.378
+  },
+  "by_syntax": 9,
+  "by_stdlib": 16,
+  "guarded": {
+   "k": 94,
+   "n": 1368,
+   "pct": 6.8713,
+   "lo": 5.648,
+   "hi": 8.3362
+  },
+  "rows": [
+   {
+    "project": "FitPsyche",
+    "declared": "3.6",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "dataclasses": 7,
+     "typing": 5
+    }
+   },
+   {
+    "project": "segmentation-models-trainer",
+    "declared": "3.6",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "typing": 5,
+     "dataclasses": 7
+    }
+   },
+   {
+    "project": "sng4onnx",
+    "declared": "3.6",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "dataclasses": 7,
+     "typing": 5
+    }
+   },
+   {
+    "project": "lme-python",
+    "declared": "3.8",
+    "detected": "3.11",
+    "syntax": "3.6",
+    "stdlib": {
+     "pathlib": 4,
+     "typing": 5,
+     "statistics": 4,
+     "dataclasses": 7,
+     "tomllib": 11
+    }
+   },
+   {
+    "project": "NeuroAnalysisTools",
+    "declared": "3.1",
+    "detected": "3.4",
+    "syntax": "3.4",
+    "stdlib": {}
+   },
+   {
+    "project": "oguzun-hesap-makinasi",
+    "declared": "3.0",
+    "detected": "3.4",
+    "syntax": "3.4",
+    "stdlib": {
+     "pathlib": 4
+    }
+   },
+   {
+    "project": "fridom",
+    "declared": "3.8",
+    "detected": "3.10",
+    "syntax": "3.10",
+    "stdlib": {
+     "typing": 5,
+     "enum": 4,
+     "pathlib": 4
+    }
+   },
+   {
+    "project": "awslambda-python-common",
+    "declared": "3.6",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "typing": 5,
+     "dataclasses": 7,
+     "enum": 4
+    }
+   },
+   {
+    "project": "MAST-U-DMS-GUI",
+    "declared": "3.0",
+    "detected": "3.4",
+    "syntax": "3.4",
+    "stdlib": {}
+   },
+   {
+    "project": "ragpy",
+    "declared": "3.9",
+    "detected": "3.10",
+    "syntax": "3.10",
+    "stdlib": {
+     "typing": 5
+    }
+   },
+   {
+    "project": "gRNA-create",
+    "declared": "3.6",
+    "detected": "3.8",
+    "syntax": "3.8",
+    "stdlib": {
+     "typing": 5,
+     "enum": 4
+    }
+   },
+   {
+    "project": "asyncspotify",
+    "declared": "3.5",
+    "detected": "3.6",
+    "syntax": "3.6",
+    "stdlib": {
+     "typing": 5,
+     "asyncio": 4
+    }
+   },
+   {
+    "project": "ktbench",
+    "declared": "3.5",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "pathlib": 4,
+     "dataclasses": 7
+    }
+   },
+   {
+    "project": "TreeHole",
+    "declared": "3.6",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "typing": 5,
+     "dataclasses": 7
+    }
+   },
+   {
+    "project": "webvtt-translator",
+    "declared": "3.6",
+    "detected": "3.8",
+    "syntax": "3.8",
+    "stdlib": {}
+   },
+   {
+    "project": "aiovk2",
+    "declared": "3.6",
+    "detected": "3.7",
+    "syntax": "3.6",
+    "stdlib": {
+     "typing": 5,
+     "asyncio": 4,
+     "dataclasses": 7,
+     "pathlib": 4
+    }
+   },
+   {
+    "project": "wordcloud-d3",
+    "declared": "3.10",
+    "detected": "3.11",
+    "syntax": "3.6",
+    "stdlib": {
+     "pathlib": 4,
+     "typing": 5,
+     "tomllib": 11
+    }
+   },
+   {
+    "project": "tag-publish",
+    "declared": "3.10",
+    "detected": "3.11",
+    "syntax": "3.6",
+    "stdlib": {
+     "pathlib": 4,
+     "typing": 5,
+     "tomllib": 11
+    }
+   },
+   {
+    "project": "psychopy-visionscience",
+    "declared": "3.7",
+    "detected": "3.8",
+    "syntax": "3.4",
+    "stdlib": {
+     "importlib.metadata": 8,
+     "pathlib": 4
+    }
+   }
+  ]
+ },
+ "contradicts_live": {
+  "k": 14,
+  "n": 836,
+  "pct": 1.6746,
+  "lo": 1.0001,
+  "hi": 2.7913
+ },
+ "silent_detected": {
+  "3.4": 413,
+  "3.5": 30,
+  "3.6": 36,
+  "3.7": 7,
+  "3.8": 5,
+  "3.9": 2,
+  "3.10": 3
+ },
+ "silent_needing_37": {
+  "k": 17,
+  "n": 496,
+  "pct": 3.4274,
+  "lo": 2.1507,
+  "hi": 5.42
+ },
+ "installable_but_broken": {
+  "k": 36,
+  "n": 1368,
+  "pct": 2.6316,
+  "lo": 1.9068,
+  "hi": 3.6216
+ },
+ "declared_above_detected": {
+  "n": 853,
+  "median": 3,
+  "mean": 2.815,
+  "max": 10
+ }
+}
