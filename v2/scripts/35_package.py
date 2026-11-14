@@ -57,8 +57,10 @@ def main():
     shutil.copy(os.path.join(draft, "manuscript.pdf"), os.path.join(FINAL, "SPE_28_manuscript.pdf"))
     with zipfile.ZipFile(os.path.join(FINAL, "SPE_28_manuscript_source.zip"), "w",
                          zipfile.ZIP_DEFLATED) as z:
-        for f in ("manuscript.tex", "numbers.tex", "fig_floors.pdf"):
-            z.write(os.path.join(draft, f), f)
+        for f in sorted(os.listdir(draft)):
+            if (f.endswith(".tex") and not f.startswith("cover_letter")) or f in ("fig_floors.pdf",
+                                                                                "references.bib"):
+                z.write(os.path.join(draft, f), f)
     build(draft, "cover_letter")
     shutil.copy(os.path.join(draft, "cover_letter.pdf"), os.path.join(FINAL, "SPE_28_cover_letter.pdf"))
 
