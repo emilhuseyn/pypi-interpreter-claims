@@ -1,0 +1,3407 @@
+{
+ "numbers": {
+  "u_drawn": 1500,
+  "u_readable": 1449,
+  "u_unreadable": 51,
+  "u_spec": {
+   "k": 945,
+   "n": 1449,
+   "pct": 65.2,
+   "lo": 62.7,
+   "hi": 67.6
+  },
+  "u_spec_k": 945,
+  "u_spec_n": 1449,
+  "u_nospec": {
+   "k": 504,
+   "n": 1449,
+   "pct": 34.8,
+   "lo": 32.4,
+   "hi": 37.3
+  },
+  "u_nospec_k": 504,
+  "u_nospec_n": 1449,
+  "u_speckind_ok": 935,
+  "u_speckind_no_py3": 9,
+  "u_speckind_unparsable": 1,
+  "u_cls": {
+   "k": 590,
+   "n": 1449,
+   "pct": 40.7,
+   "lo": 38.2,
+   "hi": 43.3
+  },
+  "u_cls_k": 590,
+  "u_cls_n": 1449,
+  "u_whl": {
+   "k": 1160,
+   "n": 1449,
+   "pct": 80.1,
+   "lo": 77.9,
+   "hi": 82.0
+  },
+  "u_whl_k": 1160,
+  "u_whl_n": 1449,
+  "u_combo_yyy": 442,
+  "u_combopct_yyy": {
+   "k": 442,
+   "n": 1449,
+   "pct": 30.5,
+   "lo": 28.2,
+   "hi": 32.9
+  },
+  "u_combopct_yyy_k": 442,
+  "u_combopct_yyy_n": 1449,
+  "u_combo_yyn": 16,
+  "u_combopct_yyn": {
+   "k": 16,
+   "n": 1449,
+   "pct": 1.1,
+   "lo": 0.7,
+   "hi": 1.8
+  },
+  "u_combopct_yyn_k": 16,
+  "u_combopct_yyn_n": 1449,
+  "u_combo_yny": 465,
+  "u_combopct_yny": {
+   "k": 465,
+   "n": 1449,
+   "pct": 32.1,
+   "lo": 29.7,
+   "hi": 34.5
+  },
+  "u_combopct_yny_k": 465,
+  "u_combopct_yny_n": 1449,
+  "u_combo_ynn": 22,
+  "u_combopct_ynn": {
+   "k": 22,
+   "n": 1449,
+   "pct": 1.5,
+   "lo": 1.0,
+   "hi": 2.3
+  },
+  "u_combopct_ynn_k": 22,
+  "u_combopct_ynn_n": 1449,
+  "u_combo_nyy": 75,
+  "u_combopct_nyy": {
+   "k": 75,
+   "n": 1449,
+   "pct": 5.2,
+   "lo": 4.1,
+   "hi": 6.4
+  },
+  "u_combopct_nyy_k": 75,
+  "u_combopct_nyy_n": 1449,
+  "u_combo_nyn": 57,
+  "u_combopct_nyn": {
+   "k": 57,
+   "n": 1449,
+   "pct": 3.9,
+   "lo": 3.0,
+   "hi": 5.1
+  },
+  "u_combopct_nyn_k": 57,
+  "u_combopct_nyn_n": 1449,
+  "u_combo_nny": 178,
+  "u_combopct_nny": {
+   "k": 178,
+   "n": 1449,
+   "pct": 12.3,
+   "lo": 10.7,
+   "hi": 14.1
+  },
+  "u_combopct_nny_k": 178,
+  "u_combopct_nny_n": 1449,
+  "u_combo_nnn": 194,
+  "u_combopct_nnn": {
+   "k": 194,
+   "n": 1449,
+   "pct": 13.4,
+   "lo": 11.7,
+   "hi": 15.2
+  },
+  "u_combopct_nnn_k": 194,
+  "u_combopct_nnn_n": 1449,
+  "u_both": {
+   "k": 458,
+   "n": 1449,
+   "pct": 31.6,
+   "lo": 29.3,
+   "hi": 34.0
+  },
+  "u_both_k": 458,
+  "u_both_n": 1449,
+  "u_specnocls": {
+   "k": 487,
+   "n": 1449,
+   "pct": 33.6,
+   "lo": 31.2,
+   "hi": 36.1
+  },
+  "u_specnocls_k": 487,
+  "u_specnocls_n": 1449,
+  "u_clsnospec": {
+   "k": 132,
+   "n": 1449,
+   "pct": 9.1,
+   "lo": 7.7,
+   "hi": 10.7
+  },
+  "u_clsnospec_k": 132,
+  "u_clsnospec_n": 1449,
+  "u_none": {
+   "k": 194,
+   "n": 1449,
+   "pct": 13.4,
+   "lo": 11.7,
+   "hi": 15.2
+  },
+  "u_none_k": 194,
+  "u_none_n": 1449,
+  "u_refused": {
+   "k": 10,
+   "n": 458,
+   "pct": 2.2,
+   "lo": 1.2,
+   "hi": 4.0
+  },
+  "u_refused_k": 10,
+  "u_refused_n": 458,
+  "u_unreleased": 4,
+  "u_openend": 382,
+  "u_tagconstr": {
+   "k": 35,
+   "n": 907,
+   "pct": 3.9,
+   "lo": 2.8,
+   "hi": 5.3
+  },
+  "u_tagconstr_k": 35,
+  "u_tagconstr_n": 907,
+  "u_taguniv": {
+   "k": 872,
+   "n": 907,
+   "pct": 96.1,
+   "lo": 94.7,
+   "hi": 97.2
+  },
+  "u_taguniv_k": 872,
+  "u_taguniv_n": 907,
+  "u_status_no_distribution_under_cap": 48,
+  "u_status_measured": 1314,
+  "u_status_no_counted_python": 54,
+  "u_status_no_python_read": 33,
+  "u_measured": 1314,
+  "u_files": 23160,
+  "u_files_nevercompile": 90,
+  "u_decl": 865,
+  "u_silent": 439,
+  "u_nopy3_meas": 10,
+  "u_flagged": {
+   "k": 33,
+   "n": 865,
+   "pct": 3.8,
+   "lo": 2.7,
+   "hi": 5.3
+  },
+  "u_flagged_k": 33,
+  "u_flagged_n": 865,
+  "u_flag_syntax": 26,
+  "u_flag_stdlib": 12,
+  "u_adj_pending": 0,
+  "u_confirmed": {
+   "k": 32,
+   "n": 865,
+   "pct": 3.7,
+   "lo": 2.6,
+   "hi": 5.2
+  },
+  "u_confirmed_k": 32,
+  "u_confirmed_n": 865,
+  "u_artefact": 1,
+  "u_precision": {
+   "k": 32,
+   "n": 33,
+   "pct": 97.0,
+   "lo": 84.7,
+   "hi": 99.5
+  },
+  "u_precision_k": 32,
+  "u_precision_n": 33,
+  "u_blocked": 5,
+  "u_conf_floor_le35": 15,
+  "u_conf_syntax": 26,
+  "u_conf_stdlib_only": 6,
+  "u_deps_unread": 4,
+  "u_installable": {
+   "k": 27,
+   "n": 865,
+   "pct": 3.1,
+   "lo": 2.2,
+   "hi": 4.5
+  },
+  "u_installable_k": 27,
+  "u_installable_n": 865,
+  "u_excused": 0,
+  "u_excused_backport": 0,
+  "u_anydepth_only": 0,
+  "u_tooold": 0,
+  "u_guarded_same": 22,
+  "u_unguarded_same": 76,
+  "u_silent_need37": 22,
+  "u_silent_need310": 3,
+  "u_e1": {
+   "k": 1,
+   "n": 865,
+   "pct": 0.1,
+   "lo": 0.0,
+   "hi": 0.7
+  },
+  "u_e1_k": 1,
+  "u_e1_n": 865,
+  "u_e1_confirmed": 1,
+  "u_v1_cells": 207540,
+  "u_v1_agree": 197430,
+  "u_v1_fp": 0,
+  "u_v1_fn": 10110,
+  "u_v1_fn_files": 8464,
+  "u_v1_fn_at_5": 5385,
+  "u_v1_fn_at_6": 4584,
+  "u_v1_fn_at_7": 78,
+  "u_v1_fn_at_8": 33,
+  "u_v1_fn_at_9": 9,
+  "u_v1_fn_at_10": 9,
+  "u_v1_fn_at_11": 8,
+  "u_v1_fn_at_12": 2,
+  "u_v1_fn_at_13": 2,
+  "u_flag_syntax_only_testable": 15,
+  "u_v1_missed_flags": 10,
+  "u_v2_equal": 1018,
+  "u_v2_verminundecided": 5,
+  "u_v2_verminhigher": 281,
+  "u_v2_ourshigher": 10,
+  "u_v2_flag": 81,
+  "u_v2_flag_overlap": 33,
+  "p_drawn": 1000,
+  "p_readable": 1000,
+  "p_unreadable": 0,
+  "p_spec": {
+   "k": 930,
+   "n": 1000,
+   "pct": 93.0,
+   "lo": 91.2,
+   "hi": 94.4
+  },
+  "p_spec_k": 930,
+  "p_spec_n": 1000,
+  "p_nospec": {
+   "k": 70,
+   "n": 1000,
+   "pct": 7.0,
+   "lo": 5.6,
+   "hi": 8.8
+  },
+  "p_nospec_k": 70,
+  "p_nospec_n": 1000,
+  "p_speckind_ok": 930,
+  "p_speckind_no_py3": 0,
+  "p_speckind_unparsable": 0,
+  "p_cls": {
+   "k": 822,
+   "n": 1000,
+   "pct": 82.2,
+   "lo": 79.7,
+   "hi": 84.4
+  },
+  "p_cls_k": 822,
+  "p_cls_n": 1000,
+  "p_whl": {
+   "k": 997,
+   "n": 1000,
+   "pct": 99.7,
+   "lo": 99.1,
+   "hi": 99.9
+  },
+  "p_whl_k": 997,
+  "p_whl_n": 1000,
+  "p_combo_yyy": 777,
+  "p_combopct_yyy": {
+   "k": 777,
+   "n": 1000,
+   "pct": 77.7,
+   "lo": 75.0,
+   "hi": 80.2
+  },
+  "p_combopct_yyy_k": 777,
+  "p_combopct_yyy_n": 1000,
+  "p_combo_yyn": 1,
+  "p_combopct_yyn": {
+   "k": 1,
+   "n": 1000,
+   "pct": 0.1,
+   "lo": 0.0,
+   "hi": 0.6
+  },
+  "p_combopct_yyn_k": 1,
+  "p_combopct_yyn_n": 1000,
+  "p_combo_yny": 152,
+  "p_combopct_yny": {
+   "k": 152,
+   "n": 1000,
+   "pct": 15.2,
+   "lo": 13.1,
+   "hi": 17.6
+  },
+  "p_combopct_yny_k": 152,
+  "p_combopct_yny_n": 1000,
+  "p_combo_ynn": 0,
+  "p_combopct_ynn": {
+   "k": 0,
+   "n": 1000,
+   "pct": 0.0,
+   "lo": 0.0,
+   "hi": 0.4
+  },
+  "p_combopct_ynn_k": 0,
+  "p_combopct_ynn_n": 1000,
+  "p_combo_nyy": 43,
+  "p_combopct_nyy": {
+   "k": 43,
+   "n": 1000,
+   "pct": 4.3,
+   "lo": 3.2,
+   "hi": 5.7
+  },
+  "p_combopct_nyy_k": 43,
+  "p_combopct_nyy_n": 1000,
+  "p_combo_nyn": 1,
+  "p_combopct_nyn": {
+   "k": 1,
+   "n": 1000,
+   "pct": 0.1,
+   "lo": 0.0,
+   "hi": 0.6
+  },
+  "p_combopct_nyn_k": 1,
+  "p_combopct_nyn_n": 1000,
+  "p_combo_nny": 25,
+  "p_combopct_nny": {
+   "k": 25,
+   "n": 1000,
+   "pct": 2.5,
+   "lo": 1.7,
+   "hi": 3.7
+  },
+  "p_combopct_nny_k": 25,
+  "p_combopct_nny_n": 1000,
+  "p_combo_nnn": 1,
+  "p_combopct_nnn": {
+   "k": 1,
+   "n": 1000,
+   "pct": 0.1,
+   "lo": 0.0,
+   "hi": 0.6
+  },
+  "p_combopct_nnn_k": 1,
+  "p_combopct_nnn_n": 1000,
+  "p_both": {
+   "k": 778,
+   "n": 1000,
+   "pct": 77.8,
+   "lo": 75.1,
+   "hi": 80.3
+  },
+  "p_both_k": 778,
+  "p_both_n": 1000,
+  "p_specnocls": {
+   "k": 152,
+   "n": 1000,
+   "pct": 15.2,
+   "lo": 13.1,
+   "hi": 17.6
+  },
+  "p_specnocls_k": 152,
+  "p_specnocls_n": 1000,
+  "p_clsnospec": {
+   "k": 44,
+   "n": 1000,
+   "pct": 4.4,
+   "lo": 3.3,
+   "hi": 5.9
+  },
+  "p_clsnospec_k": 44,
+  "p_clsnospec_n": 1000,
+  "p_none": {
+   "k": 1,
+   "n": 1000,
+   "pct": 0.1,
+   "lo": 0.0,
+   "hi": 0.6
+  },
+  "p_none_k": 1,
+  "p_none_n": 1000,
+  "p_refused": {
+   "k": 7,
+   "n": 778,
+   "pct": 0.9,
+   "lo": 0.4,
+   "hi": 1.8
+  },
+  "p_refused_k": 7,
+  "p_refused_n": 778,
+  "p_unreleased": 5,
+  "p_openend": 501,
+  "p_tagconstr": {
+   "k": 134,
+   "n": 929,
+   "pct": 14.4,
+   "lo": 12.3,
+   "hi": 16.8
+  },
+  "p_tagconstr_k": 134,
+  "p_tagconstr_n": 929,
+  "p_taguniv": {
+   "k": 795,
+   "n": 929,
+   "pct": 85.6,
+   "lo": 83.2,
+   "hi": 87.7
+  },
+  "p_taguniv_k": 795,
+  "p_taguniv_n": 929,
+  "p_status_measured": 893,
+  "p_status_no_distribution_under_cap": 60,
+  "p_status_no_counted_python": 47,
+  "p_measured": 893,
+  "p_files": 54861,
+  "p_files_nevercompile": 1,
+  "p_decl": 829,
+  "p_silent": 64,
+  "p_nopy3_meas": 0,
+  "p_flagged": {
+   "k": 4,
+   "n": 829,
+   "pct": 0.5,
+   "lo": 0.2,
+   "hi": 1.2
+  },
+  "p_flagged_k": 4,
+  "p_flagged_n": 829,
+  "p_flag_syntax": 3,
+  "p_flag_stdlib": 2,
+  "p_adj_pending": 0,
+  "p_confirmed": {
+   "k": 2,
+   "n": 829,
+   "pct": 0.2,
+   "lo": 0.1,
+   "hi": 0.9
+  },
+  "p_confirmed_k": 2,
+  "p_confirmed_n": 829,
+  "p_artefact": 2,
+  "p_precision": {
+   "k": 2,
+   "n": 4,
+   "pct": 50.0,
+   "lo": 15.0,
+   "hi": 85.0
+  },
+  "p_precision_k": 2,
+  "p_precision_n": 4,
+  "p_blocked": 0,
+  "p_conf_floor_le35": 1,
+  "p_conf_syntax": 2,
+  "p_conf_stdlib_only": 0,
+  "p_deps_unread": 0,
+  "p_installable": {
+   "k": 2,
+   "n": 829,
+   "pct": 0.2,
+   "lo": 0.1,
+   "hi": 0.9
+  },
+  "p_installable_k": 2,
+  "p_installable_n": 829,
+  "p_excused": 0,
+  "p_excused_backport": 0,
+  "p_anydepth_only": 2,
+  "p_tooold": 0,
+  "p_guarded_same": 87,
+  "p_unguarded_same": 18,
+  "p_silent_need37": 4,
+  "p_silent_need310": 0,
+  "p_e1": {
+   "k": 3,
+   "n": 829,
+   "pct": 0.4,
+   "lo": 0.1,
+   "hi": 1.1
+  },
+  "p_e1_k": 3,
+  "p_e1_n": 829,
+  "p_e1_confirmed": 3,
+  "p_v1_cells": 493740,
+  "p_v1_agree": 467943,
+  "p_v1_fp": 0,
+  "p_v1_fn": 25797,
+  "p_v1_fn_files": 20484,
+  "p_v1_fn_at_5": 10197,
+  "p_v1_fn_at_6": 15273,
+  "p_v1_fn_at_7": 184,
+  "p_v1_fn_at_8": 119,
+  "p_v1_fn_at_9": 12,
+  "p_v1_fn_at_10": 9,
+  "p_v1_fn_at_11": 3,
+  "p_v1_fn_at_12": 0,
+  "p_v1_fn_at_13": 0,
+  "p_flag_syntax_only_testable": 1,
+  "p_v1_missed_flags": 1,
+  "p_v2_equal": 385,
+  "p_v2_verminhigher": 501,
+  "p_v2_verminundecided": 2,
+  "p_v2_ourshigher": 5,
+  "p_v2_flag": 242,
+  "p_v2_flag_overlap": 4,
+  "vo_pool": 286,
+  "vo_sample": 20,
+  "vo_real": 4,
+  "vo_real_import": 2,
+  "vo_real_function": 2,
+  "vo_guarded": 16,
+  "u_pep758_projects": 7,
+  "p_pep758_projects": 0,
+  "old_flagged": 19,
+  "old_misfiled": 32,
+  "old_still_flagged": 16,
+  "old_still_confirmed": 15,
+  "u_index": 879335
+ },
+ "lists": {
+  "U": {
+   "spec_of": {
+    "FitPsyche": ">=3.6",
+    "segmentation-models-trainer": ">=3.6.0",
+    "pycmakebuild": ">=3.6",
+    "sng4onnx": ">=3.6",
+    "NeuroAnalysisTools": ">3.0",
+    "keyin-plm": ">=3",
+    "alpaca-ml": ">=3.5",
+    "fridom": ">=3.8",
+    "littlechat": ">=3.7",
+    "awslambda-python-common": ">=3.6",
+    "django-celery-progress": ">=3",
+    "CoVEMDA": ">=3.5",
+    "webezyio": ">=3.7",
+    "MAST-U-DMS-GUI": ">=3.0",
+    "ragpy": ">=3.9",
+    "pyvlm": ">=3.10",
+    "gRNA-create": ">=3.6",
+    "house-info": ">=3",
+    "freeports-analysis": ">=3.8",
+    "asyncspotify": ">=3.5.2",
+    "ktbench": ">3.4",
+    "TreeHole": ">=3.6",
+    "csi-utils": ">=3.5, <4",
+    "webvtt-translator": ">=3.6",
+    "ludi": ">=3",
+    "aiovk2": ">=3.6",
+    "client3x": ">=3.10",
+    "fanok": ">=3.5.0",
+    "steam-totp": ">=2.7,<4.0",
+    "birdspotter": ">=3",
+    "lokzzpylib": ">=3",
+    "tag-publish": ">=3.10",
+    "psychopy-visionscience": ">=3.7"
+   },
+   "flagged": [
+    "FitPsyche",
+    "segmentation-models-trainer",
+    "pycmakebuild",
+    "sng4onnx",
+    "NeuroAnalysisTools",
+    "keyin-plm",
+    "alpaca-ml",
+    "fridom",
+    "littlechat",
+    "awslambda-python-common",
+    "django-celery-progress",
+    "CoVEMDA",
+    "webezyio",
+    "MAST-U-DMS-GUI",
+    "ragpy",
+    "pyvlm",
+    "gRNA-create",
+    "house-info",
+    "freeports-analysis",
+    "asyncspotify",
+    "ktbench",
+    "TreeHole",
+    "csi-utils",
+    "webvtt-translator",
+    "ludi",
+    "aiovk2",
+    "client3x",
+    "fanok",
+    "steam-totp",
+    "birdspotter",
+    "lokzzpylib",
+    "tag-publish",
+    "psychopy-visionscience"
+   ],
+   "confirmed": [
+    "FitPsyche",
+    "pycmakebuild",
+    "sng4onnx",
+    "NeuroAnalysisTools",
+    "keyin-plm",
+    "alpaca-ml",
+    "fridom",
+    "littlechat",
+    "awslambda-python-common",
+    "django-celery-progress",
+    "CoVEMDA",
+    "webezyio",
+    "MAST-U-DMS-GUI",
+    "ragpy",
+    "pyvlm",
+    "gRNA-create",
+    "house-info",
+    "freeports-analysis",
+    "asyncspotify",
+    "ktbench",
+    "TreeHole",
+    "csi-utils",
+    "webvtt-translator",
+    "ludi",
+    "aiovk2",
+    "client3x",
+    "fanok",
+    "steam-totp",
+    "birdspotter",
+    "lokzzpylib",
+    "tag-publish",
+    "psychopy-visionscience"
+   ],
+   "artefact": [
+    "segmentation-models-trainer"
+   ],
+   "blocked": [
+    "CoVEMDA",
+    "MAST-U-DMS-GUI",
+    "ktbench",
+    "ludi",
+    "steam-totp"
+   ],
+   "refused": [
+    {
+     "project": "requests-connection-manager",
+     "spec": "<4.0,>=3.9",
+     "refused": [
+      8
+     ]
+    },
+    {
+     "project": "ipydraw",
+     "spec": ">=3.6",
+     "refused": [
+      4,
+      5
+     ]
+    },
+    {
+     "project": "rwb-tools",
+     "spec": ">=3.7",
+     "refused": [
+      5,
+      6
+     ]
+    },
+    {
+     "project": "swan-vis",
+     "spec": ">=3.8",
+     "refused": [
+      7
+     ]
+    },
+    {
+     "project": "prolm",
+     "spec": ">=3.9",
+     "refused": [
+      8
+     ]
+    },
+    {
+     "project": "ApiLogicServer",
+     "spec": ">=3.10",
+     "refused": [
+      8,
+      9
+     ]
+    },
+    {
+     "project": "rd-undetected-chromedriver",
+     "spec": ">=3.10",
+     "refused": [
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "project": "oxfel",
+     "spec": "<4.0,>=3.10.11",
+     "refused": [
+      9
+     ]
+    },
+    {
+     "project": "simp-protocol",
+     "spec": ">=3.10",
+     "refused": [
+      9
+     ]
+    },
+    {
+     "project": "digy",
+     "spec": ">=3.9",
+     "refused": [
+      8
+     ]
+    }
+   ],
+   "unreleased": [
+    {
+     "project": "certpeek",
+     "v": [
+      15
+     ]
+    },
+    {
+     "project": "displayhooks",
+     "v": [
+      15
+     ]
+    },
+    {
+     "project": "multicollections",
+     "v": [
+      15
+     ]
+    },
+    {
+     "project": "akai-transform",
+     "v": [
+      15
+     ]
+    }
+   ],
+   "e1": [
+    {
+     "project": "pysnmplib",
+     "e1": [
+      {
+       "module": "asyncore",
+       "removed": "3.12",
+       "admits": "3.12",
+       "file": "pysnmp/carrier/asyncore/base.py"
+      },
+      {
+       "module": "asyncore",
+       "removed": "3.12",
+       "admits": "3.12",
+       "file": "pysnmp/carrier/asyncore/dispatch.py"
+      },
+      {
+       "module": "asyncore",
+       "removed": "3.12",
+       "admits": "3.12",
+       "file": "pysnmp/carrier/asyncore/dispatch.py"
+      },
+      {
+       "module": "asyncore",
+       "removed": "3.12",
+       "admits": "3.12",
+       "file": "pysnmp/carrier/asyncore/dispatch.py"
+      },
+      {
+       "module": "asyncore",
+       "removed": "3.12",
+       "admits": "3.12",
+       "file": "pysnmp/carrier/asyncore/dispatch.py"
+      }
+     ]
+    }
+   ],
+   "vermin_flagged": [
+    "FitPsyche",
+    "segmentation-models-trainer",
+    "pycmakebuild",
+    "kraken_sdk",
+    "sng4onnx",
+    "iflow-mcp_hannesrudolph-imessage-query-fastmcp-mcp-server",
+    "NeuroAnalysisTools",
+    "latp",
+    "displayhooks",
+    "mdfm",
+    "pyESI",
+    "multicollections",
+    "types-boto3-lexv2-runtime",
+    "libertywrapper",
+    "win2utc",
+    "datagrid",
+    "aitokenforge",
+    "keyin-plm",
+    "aioxnat",
+    "gofigr",
+    "alpaca-ml",
+    "pegasuspy",
+    "cookiecutter-pypackage-test",
+    "fridom",
+    "sgtree",
+    "types-aiobotocore-route53-recovery-control-config",
+    "littlechat",
+    "mini-swe-agent",
+    "awslambda-python-common",
+    "durango",
+    "django-celery-progress",
+    "CoVEMDA",
+    "Smg88",
+    "webezyio",
+    "MAST-U-DMS-GUI",
+    "LibrarianFileManager",
+    "lmquant",
+    "ragpy",
+    "AIS-Oversampler",
+    "pyvlm",
+    "aegis-vision",
+    "agreement",
+    "ps3-update-dl",
+    "rubber-ducky",
+    "bsb-havoc",
+    "crawlo",
+    "gRNA-create",
+    "house-info",
+    "snulbug",
+    "freeports-analysis",
+    "self-signed",
+    "excel-helper",
+    "asyncspotify",
+    "deepcaptcha",
+    "types-aiobotocore-pi",
+    "provchain",
+    "nt2py",
+    "ktbench",
+    "fashionsearch",
+    "TreeHole",
+    "csi-utils",
+    "pulumi-opnsense",
+    "Encryptors",
+    "webvtt-translator",
+    "pykick",
+    "chuchu",
+    "ludi",
+    "aiovk2",
+    "client3x",
+    "gov-websites-collector",
+    "parallel-web",
+    "quickmq",
+    "fanok",
+    "elg",
+    "steam-totp",
+    "birdspotter",
+    "dlopes7-avro",
+    "lokzzpylib",
+    "organizations",
+    "tag-publish",
+    "psychopy-visionscience"
+   ],
+   "vermin_only": [
+    "AIS-Oversampler",
+    "Encryptors",
+    "LibrarianFileManager",
+    "Smg88",
+    "aegis-vision",
+    "agreement",
+    "aioxnat",
+    "aitokenforge",
+    "bsb-havoc",
+    "chuchu",
+    "cookiecutter-pypackage-test",
+    "crawlo",
+    "datagrid",
+    "deepcaptcha",
+    "displayhooks",
+    "dlopes7-avro",
+    "durango",
+    "elg",
+    "excel-helper",
+    "fashionsearch",
+    "gofigr",
+    "gov-websites-collector",
+    "iflow-mcp_hannesrudolph-imessage-query-fastmcp-mcp-server",
+    "kraken_sdk",
+    "latp",
+    "libertywrapper",
+    "lmquant",
+    "mdfm",
+    "mini-swe-agent",
+    "multicollections",
+    "nt2py",
+    "organizations",
+    "parallel-web",
+    "pegasuspy",
+    "provchain",
+    "ps3-update-dl",
+    "pulumi-opnsense",
+    "pyESI",
+    "pykick",
+    "quickmq",
+    "rubber-ducky",
+    "self-signed",
+    "sgtree",
+    "snulbug",
+    "types-aiobotocore-pi",
+    "types-aiobotocore-route53-recovery-control-config",
+    "types-boto3-lexv2-runtime",
+    "win2utc"
+   ]
+  },
+  "P": {
+   "spec_of": {
+    "sentry-sdk": ">=3.6",
+    "typedload": ">=3.10",
+    "diskcache": ">=3",
+    "pbr": ">=2.6"
+   },
+   "flagged": [
+    "sentry-sdk",
+    "typedload",
+    "diskcache",
+    "pbr"
+   ],
+   "confirmed": [
+    "typedload",
+    "diskcache"
+   ],
+   "artefact": [
+    "sentry-sdk",
+    "pbr"
+   ],
+   "blocked": [],
+   "refused": [
+    {
+     "project": "openpyxl",
+     "spec": ">=3.8",
+     "refused": [
+      6,
+      7
+     ]
+    },
+    {
+     "project": "msal-extensions",
+     "spec": ">=3.9",
+     "refused": [
+      7,
+      8
+     ]
+    },
+    {
+     "project": "python-docx",
+     "spec": ">=3.9",
+     "refused": [
+      7,
+      8
+     ]
+    },
+    {
+     "project": "botocore-stubs",
+     "spec": ">=3.10",
+     "refused": [
+      9
+     ]
+    },
+    {
+     "project": "stripe",
+     "spec": ">=3.9",
+     "refused": [
+      7,
+      8
+     ]
+    },
+    {
+     "project": "questionary",
+     "spec": ">=3.9",
+     "refused": [
+      8
+     ]
+    },
+    {
+     "project": "drf-spectacular",
+     "spec": ">=3.8",
+     "refused": [
+      6,
+      7
+     ]
+    }
+   ],
+   "unreleased": [
+    {
+     "project": "coverage",
+     "v": [
+      16
+     ]
+    },
+    {
+     "project": "humanize",
+     "v": [
+      16
+     ]
+    },
+    {
+     "project": "prettytable",
+     "v": [
+      16
+     ]
+    },
+    {
+     "project": "sphinx",
+     "v": [
+      16
+     ]
+    },
+    {
+     "project": "sphinxcontrib-jsmath",
+     "v": [
+      16
+     ]
+    }
+   ],
+   "e1": [
+    {
+     "project": "humanfriendly",
+     "e1": [
+      {
+       "module": "pipes",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "humanfriendly/cli.py"
+      },
+      {
+       "module": "pipes",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "humanfriendly/testing.py"
+      }
+     ]
+    },
+    {
+     "project": "future",
+     "e1": [
+      {
+       "module": "uu",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "future/backports/email/message.py"
+      },
+      {
+       "module": "sndhdr",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "future/backports/email/mime/audio.py"
+      },
+      {
+       "module": "imghdr",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "future/backports/email/mime/image.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixer_util.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_UserDict.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_absolute_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_add__future__imports_except_unicode_literals.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_add__future__imports_except_unicode_literals.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_basestring.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_basestring.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_bytes.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_bytes.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_bytes.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_bytes.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_cmp.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_cmp.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_division_safe.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_division_safe.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_division_safe.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_division_safe.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_division_safe.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_division_safe.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_execfile.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_execfile.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_standard_library.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_standard_library.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_standard_library_urllib.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_future_standard_library_urllib.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_input.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_input.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_input.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_next_call.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_object.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_object.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_oldstr_wrap.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_oldstr_wrap.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_oldstr_wrap.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_oldstr_wrap.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_oldstr_wrap.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_oldstr_wrap.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_order___future__imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_order___future__imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_print.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_remove_old__future__imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_remove_old__future__imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_unicode_keep_u.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_unicode_keep_u.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_unicode_keep_u.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_unicode_keep_u.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_unicode_literals_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_unicode_literals_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_xrange_with_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/fixes/fix_xrange_with_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libfuturize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_add_all__future__imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_add_all__future__imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_add_all_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_add_all_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_add_future_standard_library_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_add_future_standard_library_import.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_annotations.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_annotations.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_annotations.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_annotations.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_annotations.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_annotations.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_division.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_division.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_features.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_features.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_fullargspec.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_fullargspec.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_fullargspec.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_fullargspec.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_future_builtins.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_getcwd.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_getcwd.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_getcwd.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_getcwd.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_imports2.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_kwargs.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_memoryview.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_memoryview.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_memoryview.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_memoryview.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_metaclass.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_newstyle.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_newstyle.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_newstyle.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_newstyle.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_newstyle.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_newstyle.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_next.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_printfunction.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_printfunction.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_raise_.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_throw.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/fixes/fix_unpacking.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "libpasteurize/main.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "past/translation/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "past/translation/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "past/translation/__init__.py"
+      },
+      {
+       "module": "lib2to3",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "past/translation/__init__.py"
+      }
+     ]
+    },
+    {
+     "project": "coloredlogs",
+     "e1": [
+      {
+       "module": "pipes",
+       "removed": "3.13",
+       "admits": "3.13",
+       "file": "coloredlogs/converter/__init__.py"
+      }
+     ]
+    }
+   ],
+   "vermin_flagged": [
+    "packaging",
+    "typing-extensions",
+    "certifi",
+    "urllib3",
+    "charset-normalizer",
+    "cryptography",
+    "setuptools",
+    "pydantic",
+    "pydantic-core",
+    "click",
+    "numpy",
+    "anyio",
+    "pytest",
+    "typing-inspection",
+    "attrs",
+    "protobuf",
+    "pyjwt",
+    "jinja2",
+    "pandas",
+    "aiobotocore",
+    "starlette",
+    "pillow",
+    "uvicorn",
+    "pathspec",
+    "fsspec",
+    "filelock",
+    "tomlkit",
+    "multidict",
+    "aiohttp",
+    "yarl",
+    "propcache",
+    "pip",
+    "fastapi",
+    "tqdm",
+    "aiosignal",
+    "lxml",
+    "tenacity",
+    "ruff",
+    "sqlalchemy",
+    "wheel",
+    "openai",
+    "httpx2",
+    "psutil",
+    "google-api-core",
+    "distro",
+    "coverage",
+    "mypy-extensions",
+    "typer",
+    "uvloop",
+    "huggingface-hub",
+    "dnspython",
+    "pytest-asyncio",
+    "docstring-parser",
+    "werkzeug",
+    "more-itertools",
+    "virtualenv",
+    "redis",
+    "exceptiongroup",
+    "alembic",
+    "threadpoolctl",
+    "mypy",
+    "anthropic",
+    "pyopenssl",
+    "psycopg",
+    "zstandard",
+    "pypdf",
+    "opentelemetry-instrumentation",
+    "dill",
+    "langchain-core",
+    "decorator",
+    "pre-commit",
+    "sentry-sdk",
+    "gitpython",
+    "mpmath",
+    "backoff",
+    "docutils",
+    "toml",
+    "narwhals",
+    "asyncpg",
+    "black",
+    "jedi",
+    "structlog",
+    "ipython",
+    "pyzmq",
+    "pytest-timeout",
+    "pyproject-hooks",
+    "build",
+    "aioitertools",
+    "isort",
+    "cachecontrol",
+    "typedload",
+    "debugpy",
+    "langsmith",
+    "nest-asyncio",
+    "poetry-core",
+    "cython",
+    "pypdfium2",
+    "lark",
+    "beartype",
+    "pytokens",
+    "setuptools-scm",
+    "pycryptodome",
+    "reportlab",
+    "loguru",
+    "cyclopts",
+    "vcs-versioning",
+    "graphql-core",
+    "mistune",
+    "pymongo",
+    "arrow",
+    "datasets",
+    "toolz",
+    "hypothesis",
+    "numba",
+    "uncalled-for",
+    "polars",
+    "typeguard",
+    "smart-open",
+    "pydantic-extra-types",
+    "textual",
+    "deepdiff",
+    "backports-zstd",
+    "psycopg-pool",
+    "langgraph",
+    "msrest",
+    "dulwich",
+    "langgraph-sdk",
+    "pycryptodomex",
+    "aiohttp-retry",
+    "grpclib",
+    "kombu",
+    "celery",
+    "semantic-version",
+    "pyright",
+    "posthog",
+    "modal",
+    "redshift-connector",
+    "future",
+    "colorlog",
+    "ddtrace",
+    "confluent-kafka",
+    "py",
+    "fqdn",
+    "poetry",
+    "bytecode",
+    "cyclonedx-python-lib",
+    "cleo",
+    "apscheduler",
+    "temporalio",
+    "altair",
+    "azure-keyvault-secrets",
+    "astroid",
+    "fakeredis",
+    "async-lru",
+    "pytest-rerunfailures",
+    "trio",
+    "mypy-boto3-s3",
+    "libcst",
+    "backports-tarfile",
+    "strands-agents",
+    "pymssql",
+    "nest-asyncio2",
+    "jupyter-server",
+    "cattrs",
+    "msgspec",
+    "pip-api",
+    "elasticsearch",
+    "opentelemetry-instrumentation-dbapi",
+    "findpython",
+    "omegaconf",
+    "claude-agent-sdk",
+    "curl-cffi",
+    "fastavro",
+    "clickhouse-connect",
+    "python-jose",
+    "pydantic-ai-slim",
+    "dask",
+    "opentelemetry-instrumentation-wsgi",
+    "overrides",
+    "graphql-relay",
+    "langchain-community",
+    "bidict",
+    "trio-websocket",
+    "ninja",
+    "gevent",
+    "pybreaker",
+    "mashumaro",
+    "simple-websocket",
+    "sqlmodel",
+    "diskcache",
+    "cloudpathlib",
+    "socksio",
+    "dbt-common",
+    "python-magic",
+    "dacite",
+    "catalogue",
+    "dbt-core",
+    "tifffile",
+    "fastcore",
+    "spacy",
+    "sentence-transformers",
+    "gql",
+    "universal-pathlib",
+    "wasabi",
+    "jupyter-builder",
+    "flit-core",
+    "ghapi",
+    "confection",
+    "mock",
+    "pybase64",
+    "emoji",
+    "azure-storage-queue",
+    "weasel",
+    "nodejs-wheel-binaries",
+    "azure-keyvault-keys",
+    "sphinx",
+    "configargparse",
+    "oracledb",
+    "pydot",
+    "pbr",
+    "pywin32",
+    "torchvision",
+    "tox",
+    "groq",
+    "mkdocs",
+    "mini-swe-agent",
+    "maturin",
+    "azure-servicebus",
+    "rdflib",
+    "langchain-classic",
+    "bitarray",
+    "vulture",
+    "slack-bolt",
+    "openai-agents",
+    "prek",
+    "pathlib-abc",
+    "datamodel-code-generator",
+    "frozendict",
+    "incremental",
+    "trafilatura",
+    "drf-spectacular",
+    "twisted"
+   ],
+   "vermin_only": [
+    "aiobotocore",
+    "aiohttp",
+    "aiohttp-retry",
+    "aioitertools",
+    "aiosignal",
+    "alembic",
+    "altair",
+    "anthropic",
+    "anyio",
+    "apscheduler",
+    "arrow",
+    "astroid",
+    "async-lru",
+    "asyncpg",
+    "attrs",
+    "azure-keyvault-keys",
+    "azure-keyvault-secrets",
+    "azure-servicebus",
+    "azure-storage-queue",
+    "backoff",
+    "backports-tarfile",
+    "backports-zstd",
+    "beartype",
+    "bidict",
+    "bitarray",
+    "black",
+    "build",
+    "bytecode",
+    "cachecontrol",
+    "catalogue",
+    "cattrs",
+    "celery",
+    "certifi",
+    "charset-normalizer",
+    "claude-agent-sdk",
+    "cleo",
+    "click",
+    "clickhouse-connect",
+    "cloudpathlib",
+    "colorlog",
+    "confection",
+    "configargparse",
+    "confluent-kafka",
+    "coverage",
+    "cryptography",
+    "curl-cffi",
+    "cyclonedx-python-lib",
+    "cyclopts",
+    "cython",
+    "dacite",
+    "dask",
+    "datamodel-code-generator",
+    "datasets",
+    "dbt-common",
+    "dbt-core",
+    "ddtrace",
+    "debugpy",
+    "decorator",
+    "deepdiff",
+    "dill",
+    "distro",
+    "dnspython",
+    "docstring-parser",
+    "docutils",
+    "drf-spectacular",
+    "dulwich",
+    "elasticsearch",
+    "emoji",
+    "exceptiongroup",
+    "fakeredis",
+    "fastapi",
+    "fastavro",
+    "fastcore",
+    "filelock",
+    "findpython",
+    "flit-core",
+    "fqdn",
+    "frozendict",
+    "fsspec",
+    "future",
+    "gevent",
+    "ghapi",
+    "gitpython",
+    "google-api-core",
+    "gql",
+    "graphql-core",
+    "graphql-relay",
+    "groq",
+    "grpclib",
+    "httpx2",
+    "huggingface-hub",
+    "hypothesis",
+    "incremental",
+    "ipython",
+    "isort",
+    "jedi",
+    "jinja2",
+    "jupyter-builder",
+    "jupyter-server",
+    "kombu",
+    "langchain-classic",
+    "langchain-community",
+    "langchain-core",
+    "langgraph",
+    "langgraph-sdk",
+    "langsmith",
+    "lark",
+    "libcst",
+    "loguru",
+    "lxml",
+    "mashumaro",
+    "maturin",
+    "mini-swe-agent",
+    "mistune",
+    "mkdocs",
+    "mock",
+    "modal",
+    "more-itertools",
+    "mpmath",
+    "msgspec",
+    "msrest",
+    "multidict",
+    "mypy",
+    "mypy-boto3-s3",
+    "mypy-extensions",
+    "narwhals",
+    "nest-asyncio",
+    "nest-asyncio2",
+    "ninja",
+    "nodejs-wheel-binaries",
+    "numba",
+    "numpy",
+    "omegaconf",
+    "openai",
+    "openai-agents",
+    "opentelemetry-instrumentation",
+    "opentelemetry-instrumentation-dbapi",
+    "opentelemetry-instrumentation-wsgi",
+    "oracledb",
+    "overrides",
+    "packaging",
+    "pandas",
+    "pathlib-abc",
+    "pathspec",
+    "pillow",
+    "pip",
+    "pip-api",
+    "poetry",
+    "poetry-core",
+    "polars",
+    "posthog",
+    "pre-commit",
+    "prek",
+    "propcache",
+    "protobuf",
+    "psutil",
+    "psycopg",
+    "psycopg-pool",
+    "py",
+    "pybase64",
+    "pybreaker",
+    "pycryptodome",
+    "pycryptodomex",
+    "pydantic",
+    "pydantic-ai-slim",
+    "pydantic-core",
+    "pydantic-extra-types",
+    "pydot",
+    "pyjwt",
+    "pymongo",
+    "pymssql",
+    "pyopenssl",
+    "pypdf",
+    "pypdfium2",
+    "pyproject-hooks",
+    "pyright",
+    "pytest",
+    "pytest-asyncio",
+    "pytest-rerunfailures",
+    "pytest-timeout",
+    "python-jose",
+    "python-magic",
+    "pytokens",
+    "pywin32",
+    "pyzmq",
+    "rdflib",
+    "redis",
+    "redshift-connector",
+    "reportlab",
+    "ruff",
+    "semantic-version",
+    "sentence-transformers",
+    "setuptools",
+    "setuptools-scm",
+    "simple-websocket",
+    "slack-bolt",
+    "smart-open",
+    "socksio",
+    "spacy",
+    "sphinx",
+    "sqlalchemy",
+    "sqlmodel",
+    "starlette",
+    "strands-agents",
+    "structlog",
+    "temporalio",
+    "tenacity",
+    "textual",
+    "threadpoolctl",
+    "tifffile",
+    "toml",
+    "tomlkit",
+    "toolz",
+    "torchvision",
+    "tox",
+    "tqdm",
+    "trafilatura",
+    "trio",
+    "trio-websocket",
+    "twisted",
+    "typeguard",
+    "typer",
+    "typing-extensions",
+    "typing-inspection",
+    "uncalled-for",
+    "universal-pathlib",
+    "urllib3",
+    "uvicorn",
+    "uvloop",
+    "vcs-versioning",
+    "virtualenv",
+    "vulture",
+    "wasabi",
+    "weasel",
+    "werkzeug",
+    "wheel",
+    "yarl",
+    "zstandard"
+   ]
+  },
+  "old_vs_new": {
+   "FitPsyche": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "segmentation-models-trainer": {
+    "new_flagged": true,
+    "new_confirmed": false
+   },
+   "sng4onnx": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "lme-python": {
+    "new_flagged": false,
+    "new_confirmed": false
+   },
+   "NeuroAnalysisTools": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "oguzun-hesap-makinasi": {
+    "new_flagged": false,
+    "new_confirmed": false
+   },
+   "fridom": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "awslambda-python-common": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "MAST-U-DMS-GUI": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "ragpy": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "gRNA-create": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "asyncspotify": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "ktbench": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "TreeHole": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "webvtt-translator": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "aiovk2": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "wordcloud-d3": {
+    "new_flagged": false,
+    "new_confirmed": false
+   },
+   "tag-publish": {
+    "new_flagged": true,
+    "new_confirmed": true
+   },
+   "psychopy-visionscience": {
+    "new_flagged": true,
+    "new_confirmed": true
+   }
+  }
+ }
+}

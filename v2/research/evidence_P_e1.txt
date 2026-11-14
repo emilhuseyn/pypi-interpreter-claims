@@ -1,0 +1,303 @@
+==============================================================================================================
+humanfriendly  spec '>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*'  floor 3.5  dist humanfriendly-10.0-py2.py3-none-any.whl  files 16
+   deps (humanfriendly-10.0.dist-info/METADATA): ['monotonic ; python_version == "2.7"', 'pyreadline ; sys_platform == "win32" and python_version<"3.8"', 'pyreadline3 ; sys_platform == "win32" and python_version>="3.8"']
+   top-level names in dist: ['humanfriendly']
+   REMOVED pipes (gone in 3.13, admits 3.13) in humanfriendly/cli.py   L82: import pipes
+   REMOVED pipes (gone in 3.13, admits 3.13) in humanfriendly/testing.py   L28: import pipes
+==============================================================================================================
+future  spec '>=2.6, !=3.0.*, !=3.1.*, !=3.2.*'  floor 3.3  dist future-1.0.0-py3-none-any.whl  files 189
+   deps (None): []
+   top-level names in dist: ['future', 'libfuturize', 'libpasteurize', 'past']
+   REMOVED uu (gone in 3.13, admits 3.13) in future/backports/email/message.py   L13: import uu
+   REMOVED sndhdr (gone in 3.13, admits 3.13) in future/backports/email/mime/audio.py   L12: import sndhdr
+   REMOVED imghdr (gone in 3.13, admits 3.13) in future/backports/email/mime/image.py   L12: import imghdr
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixer_util.py   L11: from lib2to3.fixer_util import (FromImport, Newline, is_import,
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/__init__.py   L2: from lib2to3 import refactor
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/__init__.py   L2: from lib2to3 import refactor
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_UserDict.py   L10: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_absolute_import.py   L21: from lib2to3.fixes.fix_import import FixImport
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_add__future__imports_except_unicode_literals.py   L13: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_add__future__imports_except_unicode_literals.py   L13: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_basestring.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_basestring.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_bytes.py   L10: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_bytes.py   L10: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_bytes.py   L10: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_bytes.py   L10: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_cmp.py   L13: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_cmp.py   L13: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_division_safe.py   L17: from lib2to3.fixer_util import Leaf, Node, Comma
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_division_safe.py   L17: from lib2to3.fixer_util import Leaf, Node, Comma
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_division_safe.py   L17: from lib2to3.fixer_util import Leaf, Node, Comma
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_division_safe.py   L17: from lib2to3.fixer_util import Leaf, Node, Comma
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_division_safe.py   L17: from lib2to3.fixer_util import Leaf, Node, Comma
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_division_safe.py   L17: from lib2to3.fixer_util import Leaf, Node, Comma
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_execfile.py   L17: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_execfile.py   L17: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_builtins.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_standard_library.py   L13: from lib2to3.fixes.fix_imports import FixImports
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_standard_library.py   L13: from lib2to3.fixes.fix_imports import FixImports
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_standard_library_urllib.py   L14: from lib2to3.fixes.fix_urllib import FixUrllib
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_future_standard_library_urllib.py   L14: from lib2to3.fixes.fix_urllib import FixUrllib
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_input.py   L22: import lib2to3.fixes.fix_input
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_input.py   L22: import lib2to3.fixes.fix_input
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_input.py   L22: import lib2to3.fixes.fix_input
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_metaclass.py   L32: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_next_call.py   L12: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_object.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_object.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_oldstr_wrap.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_oldstr_wrap.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_oldstr_wrap.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_oldstr_wrap.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_oldstr_wrap.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_oldstr_wrap.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_order___future__imports.py   L17: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_order___future__imports.py   L17: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_print.py   L18: from lib2to3 import patcomp, pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_raise.py   L28: from lib2to3 import pytree, fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_remove_old__future__imports.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_remove_old__future__imports.py   L15: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_unicode_keep_u.py   L11: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_unicode_keep_u.py   L11: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_unicode_keep_u.py   L11: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_unicode_keep_u.py   L11: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_unicode_literals_import.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_unicode_literals_import.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_xrange_with_import.py   L11: from lib2to3.fixes.fix_xrange import FixXrange
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/fixes/fix_xrange_with_import.py   L11: from lib2to3.fixes.fix_xrange import FixXrange
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/main.py   L73: from lib2to3.main import warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/main.py   L73: from lib2to3.main import warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/main.py   L73: from lib2to3.main import warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/main.py   L73: from lib2to3.main import warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libfuturize/main.py   L73: from lib2to3.main import warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/__init__.py   L2: from lib2to3 import refactor
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/__init__.py   L2: from lib2to3 import refactor
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_add_all__future__imports.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_add_all__future__imports.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_add_all_future_builtins.py   L17: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_add_all_future_builtins.py   L17: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_add_future_standard_library_import.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_add_future_standard_library_import.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_annotations.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_annotations.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_annotations.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_annotations.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_annotations.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_annotations.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_division.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_division.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_features.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_features.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_fullargspec.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_fullargspec.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_fullargspec.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_fullargspec.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_future_builtins.py   L11: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_getcwd.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_getcwd.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_getcwd.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_getcwd.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_imports2.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_kwargs.py   L8: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_memoryview.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_memoryview.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_memoryview.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_memoryview.py   L6: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_metaclass.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_newstyle.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_newstyle.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_newstyle.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_newstyle.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_newstyle.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_newstyle.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_next.py   L7: from lib2to3.pgen2 import token
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_printfunction.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_printfunction.py   L5: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_raise_.py   L12: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_throw.py   L3: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/fixes/fix_unpacking.py   L7: from lib2to3 import fixer_base
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/main.py   L44: from lib2to3.main import main, warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/main.py   L44: from lib2to3.main import main, warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/main.py   L44: from lib2to3.main import main, warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/main.py   L44: from lib2to3.main import main, warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/main.py   L44: from lib2to3.main import main, warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in libpasteurize/main.py   L44: from lib2to3.main import main, warn, StdoutRefactoringTool
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in past/translation/__init__.py   L44: from lib2to3.pgen2.parse import ParseError
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in past/translation/__init__.py   L44: from lib2to3.pgen2.parse import ParseError
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in past/translation/__init__.py   L44: from lib2to3.pgen2.parse import ParseError
+   REMOVED lib2to3 (gone in 3.13, admits 3.13) in past/translation/__init__.py   L44: from lib2to3.pgen2.parse import ParseError
+==============================================================================================================
+coloredlogs  spec '>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*'  floor 3.5  dist coloredlogs-15.0.1-py2.py3-none-any.whl  files 7
+   deps (coloredlogs-15.0.1.dist-info/METADATA): ['humanfriendly (>=9.1)', "capturer (>=2.4) ; extra == 'cron'"]
+   top-level names in dist: ['coloredlogs']
+   REMOVED pipes (gone in 3.13, admits 3.13) in coloredlogs/converter/__init__.py   L12: import pipes

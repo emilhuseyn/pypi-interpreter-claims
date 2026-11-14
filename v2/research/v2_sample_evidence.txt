@@ -1,0 +1,62 @@
+===== P certifi spec >=3.7 floor 3.7 files 3
+       'importlib.resources.as_file' member requires !2, 3.9
+       'importlib.resources.files' member requires !2, 3.9
+===== P mypy-boto3-s3 spec >=3.9 floor 3.9 files 9
+       'typing.Unpack' member requires !2, 3.11
+       'typing.NotRequired' member requires !2, 3.11
+===== U types-aiobotocore-route53-recovery-control-config spec >=3.9 floor 3.9 files 8
+       'typing.Self' member requires !2, 3.11
+       'typing.Unpack' member requires !2, 3.11
+       'typing.NotRequired' member requires !2, 3.11
+===== U chuchu spec >=3.10 floor 3.10 files 15
+       'typing.override' member requires !2, 3.12
+===== U gofigr spec >=3.8 floor 3.8 files 30
+       'importlib.resources.files' member requires !2, 3.9
+       'importlib.metadata.packages_distributions' member requires !2, 3.10
+===== P elasticsearch spec >=3.10 floor 3.10 files 165
+       'annotationlib' module requires !2, 3.14
+       'annotationlib.Format' member requires !2, 3.14
+       'annotationlib.Format.VALUE' member requires !2, 3.14
+===== U durango spec >=3.9 floor 3.9 files 12
+       'tomllib' module requires !2, 3.11
+===== P async-lru spec >=3.10 floor 3.10 files 1
+       'inspect.markcoroutinefunction' member requires !2, 3.12
+       'typing.Self' member requires !2, 3.11
+===== P uncalled-for spec >=3.11 floor 3.11 files 10
+       'typing.TypeAliasType' member requires !2, 3.12
+===== P multidict spec >=3.11 floor 3.11 files 4
+       'sys._is_gil_enabled' member requires !2, 3.13
+===== P typeguard spec >=3.10 floor 3.10 files 12
+       'typing.LiteralString' member requires !2, 3.11
+       'typing.NotRequired' member requires !2, 3.11
+       'typing.Required' member requires !2, 3.11
+       'typing.Self' member requires !2, 3.11
+       'typing.TypeAliasType' member requires !2, 3.12
+       'typing.Never' member requires !2, 3.11
+===== P fsspec spec >=3.10 floor 3.10 files 50
+       'compression' module requires !2, 3.14
+       'compression.zstd' module requires !2, 3.14
+===== P asyncpg spec >=3.9.0 floor 3.9 files 24
+       'asyncio.timeout' member requires !2, 3.11
+       'enum.StrEnum' member requires !2, 3.11
+       'inspect.markcoroutinefunction' member requires !2, 3.12
+       'typing.Self' member requires !2, 3.11
+===== P tqdm spec >=3.8 floor 3.8 files 31
+       'concurrent.futures.InterpreterPoolExecutor' member requires !2, 3.14
+       'concurrent.interpreters' module requires !2, 3.14
+       'os.process_cpu_count' member requires !2, 3.13
+       'itertools.batched' member requires !2, 3.12
+===== U pykick spec >=3.10 floor 3.10 files 6
+       'typing.Self' member requires !2, 3.11
+       'enum.StrEnum' member requires !2, 3.11
+===== P simple-websocket spec >=3.6 floor 3.6 files 5
+       'asyncio.create_task' member requires !2, 3.7
+===== P strands-agents spec >=3.10 floor 3.10 files 373
+       'asyncio.timeout' member requires !2, 3.11
+===== P oracledb spec >=3.10 floor 3.10 files 37
+       'string.templatelib' module requires !2, 3.14
+       'string.templatelib.Template' member requires !2, 3.14
+===== P mini-swe-agent spec >=3.10 floor 3.10 files 51
+       'typing.NotRequired' member requires !2, 3.11
+===== P mypy spec >=3.10 floor 3.10 files 247
+       'sys.flags.safe_path' member requires !2, 3.11

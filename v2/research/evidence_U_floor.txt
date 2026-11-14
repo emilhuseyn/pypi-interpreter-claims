@@ -1,0 +1,310 @@
+==============================================================================================================
+FitPsyche  spec '>=3.6'  floor 3.6  dist FitPsyche-0.1.0.tar.gz  files 5
+   deps (FitPsyche-0.1.0/setup.py): ['scipy', 'numpy', 'scikit-learn', 'matplotlib']
+   top-level names in dist: ['fit_psyche']
+   STDLIB dataclasses in FitPsyche-0.1.0/fit_psyche/psychometric_curve.py   L1: from dataclasses import dataclass, field
+==============================================================================================================
+segmentation-models-trainer  spec '>=3.6.0'  floor 3.6  dist segmentation_models_trainer-0.2.tar.gz  files 21
+   deps (segmentation_models_trainer-0.2/setup.py): ['<non-literal install_requires>']
+   top-level names in dist: ['segmentation_models_trainer']
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/callbacks_loader/callback.py   L25: from dataclasses import dataclass
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/dataset_loader/dataset.py   L24: from dataclasses import dataclass, field
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/experiment_builder/experiment.py   L28: from dataclasses import dataclass
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/experiment_builder/loss.py   L23: from dataclasses import dataclass
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/experiment_builder/metric.py   L24: from dataclasses import dataclass
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/hyperparameter_builder/hyperparameters.py   L25: from dataclasses import dataclass
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/hyperparameter_builder/optimizer.py   L23: from dataclasses import dataclass
+   STDLIB dataclasses in segmentation_models_trainer-0.2/segmentation_models_trainer/model_builder/segmentation_model.py   L23: from dataclasses import dataclass
+==============================================================================================================
+pycmakebuild  spec '>=3.6'  floor 3.6  dist pycmakebuild-0.2.27-py3-none-any.whl  files 3
+   deps (pycmakebuild-0.2.27.dist-info/METADATA): ['cmake<4.0,>=3.0']
+   top-level names in dist: ['pycmakebuild']
+   SYNTAX needs-newer pycmakebuild/api.py  floor-of-file 3.12  err [307, 'invalid syntax']
+        > f"{self.__build_dir}/{name}/build{"_wasm" if emcmake else ""}_{self.__arch}_{build_type.value}"
+==============================================================================================================
+sng4onnx  spec '>=3.6'  floor 3.6  dist sng4onnx-2.0.1-py3-none-any.whl  files 4
+   deps (None): []
+   top-level names in dist: ['sng4onnx']
+   SYNTAX needs-newer sng4onnx/gs.py  floor-of-file 3.7  err [1, 'future feature annotations is not defined']
+        > from __future__ import annotations
+   STDLIB dataclasses in sng4onnx/gs.py   L5: from dataclasses import dataclass, field
+==============================================================================================================
+NeuroAnalysisTools  spec '>3.0'  floor 3.0  dist NeuroAnalysisTools-3.1.0.tar.gz  files 29
+   deps (NeuroAnalysisTools-3.1.0/setup.py): ['<non-literal install_requires>']
+   top-level names in dist: ['NeuroAnalysisTools']
+   SYNTAX needs-newer NeuroAnalysisTools-3.1.0/NeuroAnalysisTools/DatabaseTools.py  floor-of-file 3.6  err [1901, 'invalid syntax']
+        > return list(clu_f[f'axons/{axon_n}'][()])
+   SYNTAX needs-newer NeuroAnalysisTools-3.1.0/NeuroAnalysisTools/NwbTools.py  floor-of-file 3.6  err [1357, 'invalid syntax']
+        > return f'alt9999.9_azi9999.9_sf{arr[2]:4.2f}_tf{arr[1]:04.1f}_' \
+   SYNTAX needs-newer NeuroAnalysisTools-3.1.0/NeuroAnalysisTools/PreprocessPipeline.py  floor-of-file 3.6  err [444, 'invalid syntax']
+        > vasmap_r = transform_images_to_standard_orientation(img=vasmap, scope=f'{scope}_wf')
+   SYNTAX needs-newer NeuroAnalysisTools-3.1.0/NeuroAnalysisTools/SingleCellAnalysis.py  floor-of-file 3.6  err [2527, 'invalid syntax']
+        > alt_p = f"{self.loc[cond_ind, 'alt']}:06.1f"
+==============================================================================================================
+keyin-plm  spec '>=3'  floor 3.0  dist keyin_plm-0.0.2.tar.gz  files 1
+   deps (keyin_plm-0.0.2/setup.py): ['requests-toolbelt>=0.9.1']
+   top-level names in dist: ['keyin_plm']
+   SYNTAX needs-newer keyin_plm-0.0.2/keyin_plm.py  floor-of-file 3.6  err [18, 'invalid syntax']
+        > url = f'http://{ip}:{port}/login'
+==============================================================================================================
+alpaca-ml  spec '>=3.5'  floor 3.5  dist alpaca-ml-0.9.2.tar.gz  files 51
+   deps (alpaca-ml-0.9.2/setup.py): ['<non-literal install_requires>']
+   top-level names in dist: ['alpaca']
+   SYNTAX needs-newer alpaca-ml-0.9.2/alpaca/reference/nngp.py  floor-of-file 3.6  err [107, 'invalid syntax']
+        > name = f'W{cnt_layer}',
+   SYNTAX needs-newer alpaca-ml-0.9.2/alpaca/ue/base.py  floor-of-file 3.6  err [49, 'invalid syntax']
+        > ):
+   SYNTAX needs-newer alpaca-ml-0.9.2/alpaca/ue/masks.py  floor-of-file 3.6  err [35, 'invalid syntax']
+        > ) -> torch.Tensor:
+   SYNTAX needs-newer alpaca-ml-0.9.2/alpaca/utils/datasets/openml.py  floor-of-file 3.6  err [13, 'invalid syntax']
+        > cache_dir = path.join(DATA_DIR, f"dataloader/data/{name}")
+==============================================================================================================
+fridom  spec '>=3.8'  floor 3.8  dist fridom-0.0.5.tar.gz  files 137
+   deps (fridom-0.0.5/PKG-INFO): ['lazypimp', 'numpy', 'scipy', 'netCDF4', 'tqdm', 'dill', 'IPython', 'coloredlogs', 'regex', 'cupy; extra == "cupy"', 'jax; extra == "jax"', 'jax[cuda12]; extra == "jax-cuda"']
+   top-level names in dist: ['fridom']
+   SYNTAX needs-newer fridom-0.0.5/src/fridom/framework/clock.py  floor-of-file 3.10  err [83, 'invalid syntax']
+        > match self._timing_format:
+   SYNTAX needs-newer fridom-0.0.5/src/fridom/framework/configuration.py  floor-of-file 3.10  err [74, 'invalid syntax']
+        > match backend_name:
+   SYNTAX needs-newer fridom-0.0.5/src/fridom/framework/grid/cartesian/finite_differences.py  floor-of-file 3.10  err [35, 'invalid syntax']
+        > match f.position[axis]:
+   SYNTAX needs-newer fridom-0.0.5/src/fridom/framework/grid/cartesian/grid.py  floor-of-file 3.10  err [228, 'invalid syntax']
+        > match padding:
+==============================================================================================================
+littlechat  spec '>=3.7'  floor 3.7  dist littlechat-0.0.7.tar.gz  files 22
+   deps (littlechat-0.0.7/PKG-INFO): ['urwid']
+   top-level names in dist: ['littlechat']
+   SYNTAX needs-newer littlechat-0.0.7/littlechat/front/front_text_layout.py  floor-of-file 3.8  err [1, 'invalid syntax']
+        > from urwid import text_layout
+==============================================================================================================
+awslambda-python-common  spec '>=3.6'  floor 3.6  dist awslambda-python-common-0.0.65.tar.gz  files 22
+   deps (awslambda-python-common-0.0.65/setup.py): ['pyjwt', 'dacite', 'aws_lambda_powertools']
+   top-level names in dist: ['main']
+   SYNTAX needs-newer awslambda-python-common-0.0.65/src/main/awslambdalawm/security/__init__.py  floor-of-file 3.8  err [14, 'invalid syntax']
+        > pdpService:PdpService=None,
+   SYNTAX needs-newer awslambda-python-common-0.0.65/src/main/awslambdalawm/security/authz/__impl/pdprepo.py  floor-of-file 3.8  err [1, 'invalid syntax']
+        > from typing import List, Dict
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/httpapi/__impl/app.py   L7: from dataclasses import asdict, is_dataclass
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/httpapi/__impl/domain.py   L2: from dataclasses import dataclass
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/httpapi/__impl/principalparser.py   L2: from dataclasses import dataclass, field
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/httpapi/__init__.py   L1: from dataclasses import dataclass as __dataclass
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/security/__init__.py   L1: from dataclasses import dataclass as __dataclass
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/security/authz/__impl/domain.py   L1: from dataclasses import dataclass, field
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/security/authz/__impl/pep.py   L2: from dataclasses import dataclass
+   STDLIB dataclasses in awslambda-python-common-0.0.65/src/main/awslambdalawm/security/core/__impl/domain.py   L2: from dataclasses import dataclass, field
+==============================================================================================================
+django-celery-progress  spec '>=3'  floor 3.0  dist django-celery-progress-1.0.5.tar.gz  files 10
+   deps (django-celery-progress-1.0.5/PKG-INFO): ['Django', 'celery', 'redis']
+   top-level names in dist: ['django_celery_progress']
+   SYNTAX needs-newer django-celery-progress-1.0.5/django_celery_progress/tasks.py  floor-of-file 3.6  err [61, 'invalid syntax']
+        > return f"{count} task(s) removed."
+==============================================================================================================
+CoVEMDA  spec '>=3.5'  floor 3.5  dist CoVEMDA-1.0.tar.gz  files 6
+   deps (CoVEMDA-1.0/setup.py): ['pandas >= 1.2.4', 'scipy >= 1.6.2', 'statsmodels >= 0.12.2', 'scikit-learn >= 0.24.1', 'matplotlib >= 3.3.4']
+   top-level names in dist: ['lib']
+   SYNTAX needs-newer CoVEMDA-1.0/lib/covemda/baseline_estimator.py  floor-of-file 3.6  err [69, 'invalid syntax']
+        > print(f"Statistics of Difference from Baseline:\n"
+   SYNTAX needs-newer CoVEMDA-1.0/lib/covemda/data_structure.py  floor-of-file 3.6  err [7, 'invalid syntax']
+        > COL_HOUR = [f"{i:02d}:00" for i in range(24)]
+   SYNTAX needs-newer CoVEMDA-1.0/lib/covemda/integration.py  floor-of-file 3.6  err [178, 'invalid syntax']
+        > print(f"Warning: Skip to avoid overwrite {fn}.")
+   SYNTAX needs-newer CoVEMDA-1.0/lib/covemda/regressor.py  floor-of-file 3.6  err [63, 'invalid syntax']
+        > print(f"Model Saved: {save_file}")
+==============================================================================================================
+webezyio  spec '>=3.7'  floor 3.7  dist webezyio-0.1.9-py3-none-any.whl  files 78
+   deps (webezyio-0.1.9.dist-info/METADATA): ['pluggy (<1.0,>=0.3)', 'inquirer', 'prettytable', 'protobuf (<=4.21.6)', 'grpcio (==1.47.0)', 'grpcio-tools (==1.47.0)', "build ; extra == 'build'", "twine ; extra == 'build'", "bumpver ; extra == 'dev'"]
+   top-level names in dist: ['webezyio']
+   SYNTAX needs-newer webezyio/architect/recievers/__init__.py  floor-of-file 3.8  err [1, 'invalid syntax']
+        > # Copyright (c) 2022 Webezy.io.
+   SYNTAX needs-newer webezyio/cli/commands/call.py  floor-of-file 3.8  err [1, 'invalid syntax']
+        > # Copyright (c) 2022 Webezy.io.
+   SYNTAX needs-newer webezyio/cli/commands/edit.py  floor-of-file 3.8  err [1, 'invalid syntax']
+        > # Copyright (c) 2022 Webezy.io.
+==============================================================================================================
+MAST-U-DMS-GUI  spec '>=3.0'  floor 3.0  dist MAST-U-DMS-GUI-0.1.17.tar.gz  files 4
+   deps (MAST-U-DMS-GUI-0.1.17/setup.py): ['Click', 'matplotlib>=3.3.4', 'pandas>=1.2.3', 'spe2py>=2.0.0', 'numpy>=1.20.1', 'scipy>=1.6.1']
+   top-level names in dist: ['MASTUDMSGUI']
+   SYNTAX needs-newer MAST-U-DMS-GUI-0.1.17/MASTUDMSGUI/Updated_for_real_data_GUI_plotter.py  floor-of-file 3.6  err [966, 'invalid syntax']
+        > print(f"time take {stop - start:0.4f} seconds")
+   SYNTAX needs-newer MAST-U-DMS-GUI-0.1.17/MASTUDMSGUI/df_manipulation.py  floor-of-file 3.5  err [468, 'can use starred expression only as assignment target']
+        > sub_pixel = [*range(1,(len(data_input[count]))+1)]
+==============================================================================================================
+ragpy  spec '>=3.9'  floor 3.9  dist ragpy-0.1.0-py3-none-any.whl  files 5
+   deps (ragpy-0.1.0.dist-info/METADATA): ['numpy>=1.23', 'openai>=2.6.1', 'qdrant-client[fastembed]>=1.15.1']
+   top-level names in dist: ['ragpy']
+   SYNTAX needs-newer ragpy/vectorstore/qdrant.py  floor-of-file 3.10  err [28, 'invalid syntax']
+        > match self.embedder.model:
+==============================================================================================================
+pyvlm  spec '>=3.10'  floor 3.10  dist pyvlm-0.0.12.tar.gz  files 28
+   deps (pyvlm-0.0.12/PKG-INFO): ['matplotlib>=3.10.5', 'numexpr>=2.11.0', 'py2md>=0.1.3', 'pygeom>=0.0.14']
+   top-level names in dist: ['pyvlm']
+   SYNTAX needs-newer pyvlm-0.0.12/src/pyvlm/classes/latticetrim.py  floor-of-file 3.12  err [240, "f-string: unmatched '['"]
+        > print(f'alpha = {state['alpha']:.6f} deg')
+==============================================================================================================
+gRNA-create  spec '>=3.6'  floor 3.6  dist gRNA_create-0.0.2.tar.gz  files 7
+   deps (gRNA_create-0.0.2/setup.cfg): ['biopython>=1', 'pandas>=1', 'tqdm>=4', 'seaborn>=0', 'pygad>=2', 'numpy>=1', 'matplotlib>=3', 'colored>=1']
+   top-level names in dist: ['gRNA_create']
+   SYNTAX needs-newer gRNA_create-0.0.2/src/gRNA_create/gRNA_genetic_algorithm.py  floor-of-file 3.7  err [1, 'future feature annotations is not defined']
+        > from __future__ import annotations
+   SYNTAX needs-newer gRNA_create-0.0.2/src/gRNA_create/pam.py  floor-of-file 3.7  err [1, 'future feature annotations is not defined']
+        > from __future__ import annotations
+   SYNTAX needs-newer gRNA_create-0.0.2/src/gRNA_create/utils.py  floor-of-file 3.8  err [33, 'invalid syntax']
+        > cur_files = [(cur_listing, ext) for cur_listing in listing if (ext := cur_listing.split(".")[-1]) in extensions]
+==============================================================================================================
+house-info  spec '>=3'  floor 3.0  dist house-info-0.0.4.tar.gz  files 7
+   deps (house-info-0.0.4/setup.py): ['selenium', 'requests', 'beautifulsoup4', 'pandas']
+   top-level names in dist: ['house_info']
+   SYNTAX needs-newer house-info-0.0.4/house_info/base.py  floor-of-file 3.6  err [14, 'invalid syntax']
+        > URL: str = "url"
+   SYNTAX needs-newer house-info-0.0.4/house_info/my_home.py  floor-of-file 3.6  err [17, 'invalid syntax']
+        > URL: Final = "https://www.myhome.go.kr/hws/portal/sch/selectRsdtRcritNtcView.do"
+   SYNTAX needs-newer house-info-0.0.4/house_info/sh.py  floor-of-file 3.6  err [11, 'invalid syntax']
+        > URL: Final = "https://www.i-sh.co.kr/main/lay2/program/S1T294C297/www/brd/m_247/list.do?page="
+   SYNTAX needs-newer house-info-0.0.4/house_info/station_area.py  floor-of-file 3.6  err [17, 'invalid syntax']
+        > URL: Final = "https://soco.seoul.go.kr/youth/bbs/BMSR00015/list.do?menuNo=400008"
+   STDLIB typing in house-info-0.0.4/house_info/base.py   L1: from typing import List
+   STDLIB typing in house-info-0.0.4/house_info/mixins.py   L1: from typing import Tuple, List
+   STDLIB typing in house-info-0.0.4/house_info/my_home.py   L3: from typing import Final, Dict, List
+   STDLIB typing in house-info-0.0.4/house_info/sh.py   L1: from typing import List, Final
+   STDLIB typing in house-info-0.0.4/house_info/station_area.py   L2: from typing import Final, List, Tuple, Dict
+   STDLIB typing in house-info-0.0.4/house_info/utils.py   L2: from typing import Tuple, List
+==============================================================================================================
+freeports-analysis  spec '>=3.8'  floor 3.8  dist freeports_analysis-0.1.2-py3-none-any.whl  files 46
+   deps (freeports_analysis-0.1.2.dist-info/METADATA): ['PyXDG', 'importlib_resources', 'rapidfuzz', 'dotenv', 'pyyaml', 'pandas', 'requests', 'PyMuPDF', 'lxml', 'pydantic', 'pandera', 'portion']
+   top-level names in dist: ['freeports_analysis']
+   SYNTAX needs-newer freeports_analysis/logging.py  floor-of-file 3.12  err [395, 'f-string expression part cannot include a backslash']
+        > f"{company} [{company_match.replace(chr(10), '\\n').strip()}]"
+==============================================================================================================
+asyncspotify  spec '>=3.5.2'  floor 3.5  dist asyncspotify-0.12.1.tar.gz  files 24
+   deps (asyncspotify-0.12.1/setup.py): ['<non-literal install_requires>']
+   top-level names in dist: ['asyncspotify']
+   SYNTAX needs-newer asyncspotify-0.12.1/asyncspotify/client.py  floor-of-file 3.6  err [44, 'invalid syntax']
+        > auth: Authenticator
+   SYNTAX needs-newer asyncspotify-0.12.1/asyncspotify/mixins.py  floor-of-file 3.6  err [95, "'yield' inside async function"]
+        > yield self._add_track(item)
+   SYNTAX needs-newer asyncspotify-0.12.1/asyncspotify/oauth/flows.py  floor-of-file 3.6  err [21, 'invalid syntax']
+        > _data: AuthenticationResponse = None
+   SYNTAX needs-newer asyncspotify-0.12.1/asyncspotify/oauth/mixins.py  floor-of-file 3.6  err [11, 'invalid syntax']
+        > _task: asyncio.Task = None
+==============================================================================================================
+ktbench  spec '>3.4'  floor 3.4  dist ktbench-0.0.2.tar.gz  files 20
+   deps (ktbench-0.0.2/PKG-INFO): ['pandas>=1.0.0', 'datasets==2.18.0', 'GitPython==3.1.42', 'yamld==0.0.22', 'scikit-learn>=1.2.2', 'torch==2.2.1']
+   top-level names in dist: ['ktbench']
+   SYNTAX needs-newer ktbench-0.0.2/ktbench/cloud_handler.py  floor-of-file 3.6  err [18, 'invalid syntax']
+        > print(f"Error: {e}")
+   SYNTAX needs-newer ktbench-0.0.2/ktbench/datapipeline/dataset_map_utils.py  floor-of-file 3.5  err [10, 'only named arguments may follow *expression']
+        > masks = torch.arange(0,max_len).expand(*lens.shape, max_len) < lens.unsqueeze(-1)
+   SYNTAX needs-newer ktbench-0.0.2/ktbench/datapipeline/middata_manager.py  floor-of-file 3.6  err [52, 'invalid syntax']
+        > print(f"{dataset_name} dataset downloaded successfully.")
+   SYNTAX needs-newer ktbench-0.0.2/ktbench/model/basemodel.py  floor-of-file 3.8  err [13, 'invalid syntax']
+        > l2: float = 1e-5
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/datapipeline/pipeline.py   L21: from dataclasses import dataclass, field
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/model/basemodel.py   L6: from dataclasses import dataclass
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/model/dkt_related/autoregressive_decoding_dkt.py   L4: from dataclasses import dataclass
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/model/dkt_related/dkt.py   L4: from dataclasses import dataclass
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/model/dkt_related/fuse_dkt.py   L4: from dataclasses import dataclass
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/model/dkt_related/label_mask_dkt.py   L4: from dataclasses import dataclass
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/model/dkt_related/step_dkt.py   L4: from dataclasses import dataclass
+   STDLIB dataclasses in ktbench-0.0.2/ktbench/train/train.py   L12: from dataclasses import dataclass
+==============================================================================================================
+TreeHole  spec '>=3.6'  floor 3.6  dist TreeHole-2.0.0.tar.gz  files 4
+   deps (TreeHole-2.0.0/pyproject.toml): ['requests', 'aiohttp', 'aiofiles']
+   top-level names in dist: ['treehole']
+   STDLIB dataclasses in TreeHole-2.0.0/src/treehole/models.py   L5: from dataclasses import dataclass
+==============================================================================================================
+csi-utils  spec '>=3.5, <4'  floor 3.5  dist csi_utils-0.0.35.tar.gz  files 5
+   deps (csi_utils-0.0.35/setup.py): ['pyzmq', 'numpy', 'zarr', 'h5py', 'numcodecs']
+   top-level names in dist: ['csi_utils']
+   SYNTAX needs-newer csi_utils-0.0.35/csi_utils/csi_storage.py  floor-of-file 3.6  err [22, 'invalid syntax']
+        > print(f"CSI_DATAROOT:{path}")
+   SYNTAX needs-newer csi_utils-0.0.35/csi_utils/test.py  floor-of-file 3.6  err [29, 'invalid syntax']
+        > print(f"A recv {i}th", end="")
+==============================================================================================================
+webvtt-translator  spec '>=3.6'  floor 3.6  dist webvtt_translator-0.1.0.tar.gz  files 3
+   deps (webvtt_translator-0.1.0/setup.py): ['openai']
+   top-level names in dist: ['webvtt_translator']
+   SYNTAX needs-newer webvtt_translator-0.1.0/src/webvtt_translator/main.py  floor-of-file 3.8  err [48, 'invalid syntax']
+        > while line := infd.readline():
+==============================================================================================================
+ludi  spec '>=3'  floor 3.0  dist ludi-0.0.1-py3-none-any.whl  files 26
+   deps (ludi-0.0.1.dist-info/METADATA): ['headless-ida', 'angr', 'pyhidra', 'pyyaml']
+   top-level names in dist: ['ludi']
+   SYNTAX needs-newer ludi/cli/analyze.py  floor-of-file 3.6  err [108, 'invalid syntax']
+        > method_name = getattr(args, f'{manager_name}_action', None)
+   SYNTAX needs-newer ludi/cli/config.py  floor-of-file 3.6  err [64, 'invalid syntax']
+        > print(f"\n{backend_name.upper()}:")
+   SYNTAX needs-newer ludi/cli/main.py  floor-of-file 3.6  err [79, 'invalid syntax']
+        > print(f"Error: Script file '{script_path}' not found", file=sys.stderr)
+   SYNTAX needs-newer ludi/decompilers/angr/config.py  floor-of-file 3.6  err [14, 'invalid syntax']
+        > auto_load_libs: bool = False
+   STDLIB importlib.metadata in ludi/__init__.py   L1: from importlib import metadata
+   STDLIB dataclasses in ludi/decompilers/angr/config.py   L4: from dataclasses import dataclass
+   STDLIB typing in ludi/decompilers/angr/config.py   L6: from typing import Optional
+   STDLIB typing in ludi/decompilers/angr/decompiler.py   L5: from typing import Optional
+   STDLIB typing in ludi/decompilers/angr/managers.py   L3: from typing import List, Optional, Dict, Any
+   STDLIB typing in ludi/decompilers/base/config.py   L5: from typing import Dict, Any, Optional, List
+   STDLIB dataclasses in ludi/decompilers/base/config.py   L6: from dataclasses import dataclass, field
+   STDLIB typing in ludi/decompilers/base/decompiler.py   L2: from typing import TYPE_CHECKING
+   STDLIB typing in ludi/decompilers/base/managers.py   L2: from typing import List, Optional, TYPE_CHECKING
+   STDLIB typing in ludi/decompilers/base/query.py   L1: from typing import List, Callable, Any, Union, Optional, TypeVar, Generic, Iterator
+   STDLIB dataclasses in ludi/decompilers/base/types.py   L1: from dataclasses import dataclass
+   STDLIB typing in ludi/decompilers/base/types.py   L2: from typing import Optional, List, Dict, Any, TYPE_CHECKING
+   STDLIB dataclasses in ludi/decompilers/ghidra/config.py   L5: from dataclasses import dataclass
+   STDLIB typing in ludi/decompilers/ghidra/config.py   L7: from typing import Optional
+   STDLIB typing in ludi/decompilers/ghidra/decompiler.py   L10: from typing import Optional
+   STDLIB typing in ludi/decompilers/ghidra/managers.py   L7: from typing import List, Optional, Dict, Any
+   STDLIB typing in ludi/decompilers/ida/config.py   L3: from typing import Optional
+   STDLIB typing in ludi/decompilers/ida/managers.py   L1: from typing import List, Optional
+   STDLIB typing in ludi/ludi.py   L1: from typing import Optional
+==============================================================================================================
+aiovk2  spec '>=3.6'  floor 3.6  dist aiovk2-1.0.0.tar.gz  files 10
+   deps (aiovk2-1.0.0/setup.py): ['<non-literal install_requires>']
+   top-level names in dist: ['aiovk2']
+   STDLIB dataclasses in aiovk2-1.0.0/aiovk2/pools.py   L4: from dataclasses import dataclass
+==============================================================================================================
+client3x  spec '>=3.10'  floor 3.10  dist client3x-1.2.1.tar.gz  files 8
+   deps (client3x-1.2.1/PKG-INFO): ['aiohttp>=3.11.11', 'requests>=2.32.3']
+   top-level names in dist: ['client3x']
+   SYNTAX needs-newer client3x-1.2.1/client3x/ClientPayload.py  floor-of-file 3.12  err [56, "f-string: unmatched '['"]
+        > return f'ClientPayload: \nInbound: {self.data['inbound']},\nSettings: {pprint.pformat(self.data['settings'])})'
+==============================================================================================================
+fanok  spec '>=3.5.0'  floor 3.5  dist fanok-0.0.4.tar.gz  files 19
+   deps (None): []
+   top-level names in dist: ['fanok']
+   SYNTAX needs-newer fanok-0.0.4/fanok/factor_model/factor_model.py  floor-of-file 3.6  err [35, 'invalid syntax']
+        > f"Ledoit-Wolf shrinkage mode can be either 'exact' or 'random'. Found f{mode}."
+   SYNTAX needs-newer fanok-0.0.4/fanok/generation/fixed.py  floor-of-file 3.6  err [20, 'invalid syntax']
+        > f"The number of features cannot be larger than half the "
+   SYNTAX needs-newer fanok-0.0.4/fanok/generation/gaussian.py  floor-of-file 3.6  err [27, 'invalid syntax']
+        > f"The parameter mode can only be 'empirical', 'wolf'/'ledoit' or 'graphical'; found {mode}"
+   SYNTAX needs-newer fanok-0.0.4/fanok/sdp/sdp.py  floor-of-file 3.6  err [64, 'invalid syntax']
+        > f"CVXPY is not installed; you cannot solve the SDP with it."
+==============================================================================================================
+steam-totp  spec '>=2.7,<4.0'  floor 3.0  dist steam-totp-0.1.2.tar.gz  files 1
+   deps (steam-totp-0.1.2/PKG-INFO): ['dataclasses (==0.7); python_version < "3.5"']
+   top-level names in dist: ['steam_totp']
+   STDLIB typing in steam-totp-0.1.2/steam_totp/__init__.py   L7: from typing import Optional, Union
+==============================================================================================================
+birdspotter  spec '>=3'  floor 3.0  dist birdspotter-0.1.6b1.tar.gz  files 4
+   deps (birdspotter-0.1.6b1/setup.py): ['tqdm', 'wget', 'simplejson', 'numpy', 'pandas', 'python-dateutil', 'pytz', 'scikit-learn', 'scipy', 'six', 'sklearn', 'ijson']
+   top-level names in dist: ['birdspotter']
+   SYNTAX needs-newer birdspotter-0.1.6b1/birdspotter/user_influence.py  floor-of-file 3.5  err [94, 'invalid syntax']
+        > m[:i+1, i+1] = m[:i+1, :i+1]@vec
+==============================================================================================================
+lokzzpylib  spec '>=3'  floor 3.0  dist lokzzpylib-0.3-py3-none-any.whl  files 2
+   deps (lokzzpylib-0.3.dist-info/METADATA): ['colorama', 'keyboard', 'clint', 'numpy', 'pick', 'blessed']
+   top-level names in dist: ['lokzzpylib']
+   SYNTAX needs-newer lokzzpylib/__init__.py  floor-of-file 3.6  err [276, 'invalid syntax']
+        > if text != '\n': self.stdout.write(f'{thread}: {text}\n')
+   SYNTAX needs-newer lokzzpylib/misc.py  floor-of-file 3.6  err [69, 'invalid syntax']
+        > if v: printc(f"on the {i + 1} backspace")
+==============================================================================================================
+tag-publish  spec '>=3.10'  floor 3.10  dist tag_publish-1.2.2.tar.gz  files 8
+   deps (tag_publish-1.2.2/PKG-INFO): ['PyYAML (>=6,<7)', 'applications-download (>=1,<2)', 'debian-inspector (>=31,<32)', 'githubkit (>=0,<1)', 'id (>=1,<2)', 'jsonschema-validator-new (>=0,<1)', 'multi-repo-automation (>=1,<2)', 'requests (>=2,<3)', 'security-md (>=1,<2)', 'twine (>=6,<7)']
+   top-level names in dist: ['tag_publish']
+   STDLIB tomllib in tag_publish-1.2.2/tag_publish/publish.py   L12: import tomllib
+==============================================================================================================
+psychopy-visionscience  spec '>=3.7'  floor 3.7  dist psychopy_visionscience-0.0.10.tar.gz  files 8
+   deps (psychopy_visionscience-0.0.10/PKG-INFO): ['psychopy; extra == "docs"', 'sphinx; extra == "docs"', 'furo; extra == "docs"', 'psychopy; extra == "tests"', 'pytest; extra == "tests"']
+   top-level names in dist: ['psychopy_visionscience']
+   STDLIB importlib.metadata in psychopy_visionscience-0.0.10/psychopy_visionscience/__init__.py   L12: import importlib.metadata

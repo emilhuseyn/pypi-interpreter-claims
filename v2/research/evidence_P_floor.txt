@@ -1,0 +1,27 @@
+==============================================================================================================
+sentry-sdk  spec '>=3.6'  floor 3.6  dist sentry_sdk-2.75.0-py3-none-any.whl  files 203
+   deps (sentry_sdk-2.75.0.dist-info/METADATA): ['urllib3>=1.26.11', 'certifi', 'aiohttp>=3.5; extra == "aiohttp"', 'anthropic>=0.16; extra == "anthropic"', 'arq>=0.23; extra == "arq"', 'asyncpg>=0.23; extra == "asyncpg"', 'apache-beam>=2.12; extra == "beam"', 'bottle>=0.12.13; extra == "bottle"', 'celery>=3; extra == "celery"', 'celery-redbeat>=2; extra == "celery-redbeat"', 'chalice>=1.16.0; extra == "chalice"', 'clickhouse-driver>=0.2.0; extra == "clickhouse-driver"']
+   top-level names in dist: ['sentry_sdk']
+   SYNTAX needs-newer sentry_sdk/integrations/aiomysql.py  floor-of-file 3.7  err [2, 'future feature annotations is not defined']
+        > from __future__ import annotations
+   SYNTAX needs-newer sentry_sdk/integrations/asyncpg.py  floor-of-file 3.7  err [1, 'future feature annotations is not defined']
+        > from __future__ import annotations
+   STDLIB importlib.metadata in sentry_sdk/integrations/pydantic_ai/__init__.py   L13: from importlib.metadata import PackageNotFoundError, version
+   STDLIB contextvars in sentry_sdk/integrations/pydantic_ai/utils.py   L1: from contextvars import ContextVar
+==============================================================================================================
+typedload  spec '>=3.10'  floor 3.10  dist typedload-2.41-py3-none-any.whl  files 9
+   deps (None): []
+   top-level names in dist: ['typedload']
+   SYNTAX needs-newer typedload/alias.py  floor-of-file 3.11  err [77, 'invalid syntax']
+        > t = tuple[*(unalias(i) for i in t.__args__)]  # type: ignore
+==============================================================================================================
+diskcache  spec '>=3'  floor 3.0  dist diskcache-5.6.3-py3-none-any.whl  files 7
+   deps (None): []
+   top-level names in dist: ['diskcache']
+   SYNTAX needs-newer diskcache/fanout.py  floor-of-file 3.5  err [49, 'invalid syntax']
+        > **settings,
+==============================================================================================================
+pbr  spec '>=2.6'  floor 3.0  dist pbr-7.1.3-py2.py3-none-any.whl  files 27
+   deps (pbr-7.1.3.dist-info/METADATA): ['setuptools']
+   top-level names in dist: ['pbr']
+   STDLIB tomllib in pbr/pyprojecttoml.py   L16: import tomllib

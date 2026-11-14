@@ -1,0 +1,718 @@
+{
+ "U": {
+  "FitPsyche": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "scipy",
+     "blocks": false
+    },
+    {
+     "req": "numpy",
+     "blocks": false
+    },
+    {
+     "req": "scikit-learn",
+     "blocks": false
+    },
+    {
+     "req": "matplotlib",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "segmentation-models-trainer": {
+   "floor": "3.6",
+   "deps": [],
+   "blocked": false
+  },
+  "pycmakebuild": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "cmake<4.0,>=3.0",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "sng4onnx": {
+   "floor": "3.6",
+   "deps": [],
+   "blocked": false
+  },
+  "NeuroAnalysisTools": {
+   "floor": "3.0",
+   "deps": [],
+   "blocked": false
+  },
+  "keyin-plm": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "requests-toolbelt>=0.9.1",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "alpaca-ml": {
+   "floor": "3.5",
+   "deps": [],
+   "blocked": false
+  },
+  "fridom": {
+   "floor": "3.8",
+   "deps": [
+    {
+     "req": "lazypimp",
+     "blocks": false
+    },
+    {
+     "req": "numpy",
+     "blocks": false
+    },
+    {
+     "req": "scipy",
+     "blocks": false
+    },
+    {
+     "req": "netCDF4",
+     "blocks": false
+    },
+    {
+     "req": "tqdm",
+     "blocks": false
+    },
+    {
+     "req": "dill",
+     "blocks": false
+    },
+    {
+     "req": "IPython",
+     "blocks": false
+    },
+    {
+     "req": "coloredlogs",
+     "blocks": false
+    },
+    {
+     "req": "regex",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "littlechat": {
+   "floor": "3.7",
+   "deps": [
+    {
+     "req": "urwid",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "awslambda-python-common": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "pyjwt",
+     "blocks": false
+    },
+    {
+     "req": "dacite",
+     "blocks": false
+    },
+    {
+     "req": "aws_lambda_powertools",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "django-celery-progress": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "Django",
+     "blocks": false
+    },
+    {
+     "req": "celery",
+     "blocks": false
+    },
+    {
+     "req": "redis",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "CoVEMDA": {
+   "floor": "3.5",
+   "deps": [
+    {
+     "req": "pandas >= 1.2.4",
+     "blocks": true
+    },
+    {
+     "req": "scipy >= 1.6.2",
+     "blocks": true
+    },
+    {
+     "req": "statsmodels >= 0.12.2",
+     "blocks": true
+    },
+    {
+     "req": "scikit-learn >= 0.24.1",
+     "blocks": true
+    },
+    {
+     "req": "matplotlib >= 3.3.4",
+     "blocks": true
+    }
+   ],
+   "blocked": true
+  },
+  "webezyio": {
+   "floor": "3.7",
+   "deps": [
+    {
+     "req": "pluggy (<1.0,>=0.3)",
+     "blocks": false
+    },
+    {
+     "req": "inquirer",
+     "blocks": false
+    },
+    {
+     "req": "prettytable",
+     "blocks": false
+    },
+    {
+     "req": "protobuf (<=4.21.6)",
+     "blocks": false
+    },
+    {
+     "req": "grpcio (==1.47.0)",
+     "blocks": false
+    },
+    {
+     "req": "grpcio-tools (==1.47.0)",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "MAST-U-DMS-GUI": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "Click",
+     "blocks": false
+    },
+    {
+     "req": "matplotlib>=3.3.4",
+     "blocks": true
+    },
+    {
+     "req": "pandas>=1.2.3",
+     "blocks": true
+    },
+    {
+     "req": "spe2py>=2.0.0",
+     "blocks": false
+    },
+    {
+     "req": "numpy>=1.20.1",
+     "blocks": true
+    },
+    {
+     "req": "scipy>=1.6.1",
+     "blocks": true
+    }
+   ],
+   "blocked": true
+  },
+  "ragpy": {
+   "floor": "3.9",
+   "deps": [
+    {
+     "req": "numpy>=1.23",
+     "blocks": false
+    },
+    {
+     "req": "openai>=2.6.1",
+     "blocks": false
+    },
+    {
+     "req": "qdrant-client[fastembed]>=1.15.1",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "pyvlm": {
+   "floor": "3.10",
+   "deps": [
+    {
+     "req": "matplotlib>=3.10.5",
+     "blocks": false
+    },
+    {
+     "req": "numexpr>=2.11.0",
+     "blocks": false
+    },
+    {
+     "req": "py2md>=0.1.3",
+     "blocks": false
+    },
+    {
+     "req": "pygeom>=0.0.14",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "gRNA-create": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "biopython>=1",
+     "blocks": false
+    },
+    {
+     "req": "pandas>=1",
+     "blocks": false
+    },
+    {
+     "req": "tqdm>=4",
+     "blocks": false
+    },
+    {
+     "req": "seaborn>=0",
+     "blocks": false
+    },
+    {
+     "req": "pygad>=2",
+     "blocks": false
+    },
+    {
+     "req": "numpy>=1",
+     "blocks": false
+    },
+    {
+     "req": "matplotlib>=3",
+     "blocks": false
+    },
+    {
+     "req": "colored>=1",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "house-info": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "selenium",
+     "blocks": false
+    },
+    {
+     "req": "requests",
+     "blocks": false
+    },
+    {
+     "req": "beautifulsoup4",
+     "blocks": false
+    },
+    {
+     "req": "pandas",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "freeports-analysis": {
+   "floor": "3.8",
+   "deps": [
+    {
+     "req": "PyXDG",
+     "blocks": false
+    },
+    {
+     "req": "importlib_resources",
+     "blocks": false
+    },
+    {
+     "req": "rapidfuzz",
+     "blocks": false
+    },
+    {
+     "req": "dotenv",
+     "blocks": false
+    },
+    {
+     "req": "pyyaml",
+     "blocks": false
+    },
+    {
+     "req": "pandas",
+     "blocks": false
+    },
+    {
+     "req": "requests",
+     "blocks": false
+    },
+    {
+     "req": "PyMuPDF",
+     "blocks": false
+    },
+    {
+     "req": "lxml",
+     "blocks": false
+    },
+    {
+     "req": "pydantic",
+     "blocks": false
+    },
+    {
+     "req": "pandera",
+     "blocks": false
+    },
+    {
+     "req": "portion",
+     "blocks": false
+    },
+    {
+     "req": "shapely",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "asyncspotify": {
+   "floor": "3.5",
+   "deps": [],
+   "blocked": false
+  },
+  "ktbench": {
+   "floor": "3.4",
+   "deps": [
+    {
+     "req": "pandas>=1.0.0",
+     "blocks": true
+    },
+    {
+     "req": "datasets==2.18.0",
+     "blocks": true
+    },
+    {
+     "req": "GitPython==3.1.42",
+     "blocks": true
+    },
+    {
+     "req": "yamld==0.0.22",
+     "blocks": false
+    },
+    {
+     "req": "scikit-learn>=1.2.2",
+     "blocks": true
+    },
+    {
+     "req": "torch==2.2.1",
+     "blocks": true
+    }
+   ],
+   "blocked": true
+  },
+  "TreeHole": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "requests",
+     "blocks": false
+    },
+    {
+     "req": "aiohttp",
+     "blocks": false
+    },
+    {
+     "req": "aiofiles",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "csi-utils": {
+   "floor": "3.5",
+   "deps": [
+    {
+     "req": "pyzmq",
+     "blocks": false
+    },
+    {
+     "req": "numpy",
+     "blocks": false
+    },
+    {
+     "req": "zarr",
+     "blocks": false
+    },
+    {
+     "req": "h5py",
+     "blocks": false
+    },
+    {
+     "req": "numcodecs",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "webvtt-translator": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "openai",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "ludi": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "headless-ida",
+     "blocks": false
+    },
+    {
+     "req": "angr",
+     "blocks": false
+    },
+    {
+     "req": "pyhidra",
+     "blocks": true
+    },
+    {
+     "req": "pyyaml",
+     "blocks": false
+    }
+   ],
+   "blocked": true
+  },
+  "aiovk2": {
+   "floor": "3.6",
+   "deps": [],
+   "blocked": false
+  },
+  "client3x": {
+   "floor": "3.10",
+   "deps": [
+    {
+     "req": "aiohttp>=3.11.11",
+     "blocks": false
+    },
+    {
+     "req": "requests>=2.32.3",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "fanok": {
+   "floor": "3.5",
+   "deps": [],
+   "blocked": false
+  },
+  "steam-totp": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "dataclasses (==0.7); python_version < \"3.5\"",
+     "blocks": true
+    }
+   ],
+   "blocked": true
+  },
+  "birdspotter": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "tqdm",
+     "blocks": false
+    },
+    {
+     "req": "wget",
+     "blocks": false
+    },
+    {
+     "req": "simplejson",
+     "blocks": false
+    },
+    {
+     "req": "numpy",
+     "blocks": false
+    },
+    {
+     "req": "pandas",
+     "blocks": false
+    },
+    {
+     "req": "python-dateutil",
+     "blocks": false
+    },
+    {
+     "req": "pytz",
+     "blocks": false
+    },
+    {
+     "req": "scikit-learn",
+     "blocks": false
+    },
+    {
+     "req": "scipy",
+     "blocks": false
+    },
+    {
+     "req": "six",
+     "blocks": false
+    },
+    {
+     "req": "sklearn",
+     "blocks": false
+    },
+    {
+     "req": "ijson",
+     "blocks": false
+    },
+    {
+     "req": "xgboost==0.81",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "lokzzpylib": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "colorama",
+     "blocks": false
+    },
+    {
+     "req": "keyboard",
+     "blocks": false
+    },
+    {
+     "req": "clint",
+     "blocks": false
+    },
+    {
+     "req": "numpy",
+     "blocks": false
+    },
+    {
+     "req": "pick",
+     "blocks": false
+    },
+    {
+     "req": "blessed",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "tag-publish": {
+   "floor": "3.10",
+   "deps": [
+    {
+     "req": "PyYAML (>=6,<7)",
+     "blocks": false
+    },
+    {
+     "req": "applications-download (>=1,<2)",
+     "blocks": false
+    },
+    {
+     "req": "debian-inspector (>=31,<32)",
+     "blocks": false
+    },
+    {
+     "req": "githubkit (>=0,<1)",
+     "blocks": false
+    },
+    {
+     "req": "id (>=1,<2)",
+     "blocks": false
+    },
+    {
+     "req": "jsonschema-validator-new (>=0,<1)",
+     "blocks": false
+    },
+    {
+     "req": "multi-repo-automation (>=1,<2)",
+     "blocks": false
+    },
+    {
+     "req": "requests (>=2,<3)",
+     "blocks": false
+    },
+    {
+     "req": "security-md (>=1,<2)",
+     "blocks": false
+    },
+    {
+     "req": "twine (>=6,<7)",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "psychopy-visionscience": {
+   "floor": "3.7",
+   "deps": [],
+   "blocked": false
+  }
+ },
+ "P": {
+  "sentry-sdk": {
+   "floor": "3.6",
+   "deps": [
+    {
+     "req": "urllib3>=1.26.11",
+     "blocks": false
+    },
+    {
+     "req": "certifi",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  },
+  "typedload": {
+   "floor": "3.10",
+   "deps": [],
+   "blocked": false
+  },
+  "diskcache": {
+   "floor": "3.0",
+   "deps": [],
+   "blocked": false
+  },
+  "pbr": {
+   "floor": "3.0",
+   "deps": [
+    {
+     "req": "setuptools",
+     "blocks": false
+    }
+   ],
+   "blocked": false
+  }
+ }
+}

@@ -1,0 +1,37 @@
+U FitPsyche                          3.6   deps  4  installable
+U segmentation-models-trainer        3.6   deps  0  installable
+U pycmakebuild                       3.6   deps  1  installable
+U sng4onnx                           3.6   deps  0  installable
+U NeuroAnalysisTools                 3.0   deps  0  installable
+U keyin-plm                          3.0   deps  1  installable
+U alpaca-ml                          3.5   deps  0  installable
+U fridom                             3.8   deps  9  installable
+U littlechat                         3.7   deps  1  installable
+U awslambda-python-common            3.6   deps  3  installable
+U django-celery-progress             3.0   deps  3  installable
+U CoVEMDA                            3.5   deps  5  BLOCKED by pandas >= 1.2.4, scipy >= 1.6.2, statsmodels >= 0.12.2, scikit-learn >= 0.24.1, matplotlib >= 3.3.4
+U webezyio                           3.7   deps  6  installable
+U MAST-U-DMS-GUI                     3.0   deps  6  BLOCKED by matplotlib>=3.3.4, pandas>=1.2.3, numpy>=1.20.1, scipy>=1.6.1
+U ragpy                              3.9   deps  3  installable
+U pyvlm                              3.10  deps  4  installable
+U gRNA-create                        3.6   deps  8  installable
+U house-info                         3.0   deps  4  installable
+U freeports-analysis                 3.8   deps 13  installable
+U asyncspotify                       3.5   deps  0  installable
+U ktbench                            3.4   deps  6  BLOCKED by pandas>=1.0.0, datasets==2.18.0, GitPython==3.1.42, scikit-learn>=1.2.2, torch==2.2.1
+U TreeHole                           3.6   deps  3  installable
+U csi-utils                          3.5   deps  5  installable
+U webvtt-translator                  3.6   deps  1  installable
+U ludi                               3.0   deps  4  BLOCKED by pyhidra
+U aiovk2                             3.6   deps  0  installable
+U client3x                           3.10  deps  2  installable
+U fanok                              3.5   deps  0  installable
+U steam-totp                         3.0   deps  1  BLOCKED by dataclasses (==0.7); python_version < "3.5"
+U birdspotter                        3.0   deps 13  installable
+U lokzzpylib                         3.0   deps  6  installable
+U tag-publish                        3.10  deps 10  installable
+U psychopy-visionscience             3.7   deps  0  installable
+P sentry-sdk                         3.6   deps  2  installable
+P typedload                          3.10  deps  0  installable
+P diskcache                          3.0   deps  0  installable
+P pbr                                3.0   deps  1  installable

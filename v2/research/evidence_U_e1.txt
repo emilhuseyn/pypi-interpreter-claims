@@ -1,0 +1,9 @@
+==============================================================================================================
+pysnmplib  spec '>=3.8,<4.0'  floor 3.8  dist pysnmplib-5.0.24-py3-none-any.whl  files 163
+   deps (pysnmplib-5.0.24.dist-info/METADATA): ['pycryptodomex (>=3.11.0,<4.0.0)', 'pysnmp-pyasn1 (>=1.1.3,<2.0.0)', 'pysnmp-pysmi (>=1.0.4,<2.0.0)']
+   top-level names in dist: ['pysnmp']
+   REMOVED asyncore (gone in 3.12, admits 3.12) in pysnmp/carrier/asyncore/base.py   L9: import asyncore
+   REMOVED asyncore (gone in 3.12, admits 3.12) in pysnmp/carrier/asyncore/dispatch.py   L10: from asyncore import socket_map
+   REMOVED asyncore (gone in 3.12, admits 3.12) in pysnmp/carrier/asyncore/dispatch.py   L10: from asyncore import socket_map
+   REMOVED asyncore (gone in 3.12, admits 3.12) in pysnmp/carrier/asyncore/dispatch.py   L10: from asyncore import socket_map
+   REMOVED asyncore (gone in 3.12, admits 3.12) in pysnmp/carrier/asyncore/dispatch.py   L10: from asyncore import socket_map

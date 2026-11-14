@@ -1,0 +1,699 @@
+{
+ "doi": {
+  "peng2024": {
+   "doi": "10.1145/3597503.3639077",
+   "title": "Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem",
+   "container": "Proceedings of the IEEE/ACM 46th International Conference on Software Engineering",
+   "year": 2024,
+   "volume": null,
+   "issue": null,
+   "page": "1-12",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Yun",
+     "Peng"
+    ],
+    [
+     "Ruida",
+     "Hu"
+    ],
+    [
+     "Ruoke",
+     "Wang"
+    ],
+    [
+     "Cuiyun",
+     "Gao"
+    ],
+    [
+     "Shuqing",
+     "Li"
+    ],
+    [
+     "Michael R.",
+     "Lyu"
+    ]
+   ],
+   "s2_authors": [
+    "Yun Peng",
+    "Rui-Da Hu",
+    "Ruoke Wang",
+    "Cuiyun Gao",
+    "Shu-Qing Li",
+    "Michael R. Lyu"
+   ],
+   "second_index": "agree"
+  },
+  "li2025": {
+   "doi": "10.1016/j.jss.2025.112337",
+   "title": "Characterizing and detecting Python version incompatibilities caused by inconsistent version specifications",
+   "container": "Journal of Systems and Software",
+   "year": 2025,
+   "volume": "222",
+   "issue": null,
+   "page": "112337",
+   "article": "112337",
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Shuo",
+     "Li"
+    ],
+    [
+     "Haocheng",
+     "Gao"
+    ],
+    [
+     "Wei",
+     "Chen"
+    ],
+    [
+     "Yi",
+     "Li"
+    ],
+    [
+     "Haoxiang",
+     "Tian"
+    ],
+    [
+     "Chengwei",
+     "Liu"
+    ],
+    [
+     "Dan",
+     "Ye"
+    ]
+   ],
+   "s2_authors": [
+    "Shuo Li",
+    "Haocheng Gao",
+    "Wei Chen",
+    "Yi Li",
+    "Haoxiang Tian",
+    "Cheng-Wei Liu",
+    "Dan Ye"
+   ],
+   "second_index": "agree"
+  },
+  "malloy2017": {
+   "doi": "10.1109/esem.2017.45",
+   "title": "Quantifying the Transition from Python 2 to 3: An Empirical Study of Python Applications",
+   "container": "2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)",
+   "year": 2017,
+   "volume": null,
+   "issue": null,
+   "page": "314-323",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Brian A.",
+     "Malloy"
+    ],
+    [
+     "James F.",
+     "Power"
+    ]
+   ],
+   "s2_authors": [
+    "B. Malloy",
+    "James F. Power"
+   ],
+   "second_index": "agree"
+  },
+  "malloy2019": {
+   "doi": "10.1007/s10664-018-9637-2",
+   "title": "An empirical analysis of the transition from Python 2 to Python 3",
+   "container": "Empirical Software Engineering",
+   "year": 2018,
+   "volume": "24",
+   "issue": "2",
+   "page": "751-778",
+   "article": null,
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Brian A.",
+     "Malloy"
+    ],
+    [
+     "James F.",
+     "Power"
+    ]
+   ],
+   "s2_authors": [
+    "B. Malloy",
+    "James F. Power"
+   ],
+   "second_index": "agree"
+  },
+  "ye2022": {
+   "doi": "10.1145/3510003.3510127",
+   "title": "Knowledge-based environment dependency inference for python programs",
+   "container": "Proceedings of the 44th International Conference on Software Engineering",
+   "year": 2022,
+   "volume": null,
+   "issue": null,
+   "page": "1245-1256",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Hongjie",
+     "Ye"
+    ],
+    [
+     "Wei",
+     "Chen"
+    ],
+    [
+     "Wensheng",
+     "Dou"
+    ],
+    [
+     "Guoquan",
+     "Wu"
+    ],
+    [
+     "Jun",
+     "Wei"
+    ]
+   ],
+   "s2_authors": [
+    "Hongjie Ye",
+    "Wei Chen",
+    "Wensheng Dou",
+    "Guo-Quan Wu",
+    "Jun Wei"
+   ],
+   "second_index": "agree"
+  },
+  "yang2024": {
+   "doi": "10.1587/transinf.2023edp7238",
+   "title": "Unveiling Python Version Compatibility Challenges in Code Snippets on Stack Overflow",
+   "container": "IEICE Transactions on Information and Systems",
+   "year": 2024,
+   "volume": "E107.D",
+   "issue": "8",
+   "page": "1007-1015",
+   "article": "2023EDP7238",
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Shiyu",
+     "YANG"
+    ],
+    [
+     "Tetsuya",
+     "KANDA"
+    ],
+    [
+     "Daniel M.",
+     "GERMAN"
+    ],
+    [
+     "Yoshiki",
+     "HIGO"
+    ]
+   ],
+   "s2_authors": [
+    "Shiyu Yang",
+    "Tetsuya Kanda",
+    "Daniel M. Germán",
+    "Yoshiki Higo"
+   ],
+   "second_index": "agree"
+  },
+  "horton2019": {
+   "doi": "10.1109/icse.2019.00047",
+   "title": "DockerizeMe: Automatic Inference of Environment Dependencies for Python Code Snippets",
+   "container": "2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)",
+   "year": 2019,
+   "volume": null,
+   "issue": null,
+   "page": "328-338",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Eric",
+     "Horton"
+    ],
+    [
+     "Chris",
+     "Parnin"
+    ]
+   ],
+   "s2_authors": [
+    "Eric Horton",
+    "Chris Parnin"
+   ],
+   "second_index": "agree"
+  },
+  "wang2020": {
+   "doi": "10.1145/3377811.3380426",
+   "title": "Watchman: monitoring dependency conflicts for Python library ecosystem",
+   "container": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering",
+   "year": 2020,
+   "volume": null,
+   "issue": null,
+   "page": "125-135",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Ying",
+     "Wang"
+    ],
+    [
+     "Ming",
+     "Wen"
+    ],
+    [
+     "Yepang",
+     "Liu"
+    ],
+    [
+     "Yibo",
+     "Wang"
+    ],
+    [
+     "Zhenming",
+     "Li"
+    ],
+    [
+     "Chao",
+     "Wang"
+    ],
+    [
+     "Hai",
+     "Yu"
+    ],
+    [
+     "Shing-Chi",
+     "Cheung"
+    ],
+    [
+     "Chang",
+     "Xu"
+    ],
+    [
+     "Zhiliang",
+     "Zhu"
+    ]
+   ],
+   "s2_authors": [
+    "Ying Wang",
+    "Ming Wen",
+    "Ye-Pang Liu",
+    "Yi-Bo Wang",
+    "Zhenming Li",
+    "Chao Wang",
+    "Hai Yu",
+    "Shing-Chi Cheung",
+    "Chang Xu",
+    "Zhiliang Zhu"
+   ],
+   "second_index": "agree"
+  },
+  "wang2022": {
+   "doi": "10.1145/3551349.3560437",
+   "title": "smartPip: A Smart Approach to Resolving Python Dependency Conflict Issues",
+   "container": "Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+   "year": 2022,
+   "volume": null,
+   "issue": null,
+   "page": "1-12",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Chao",
+     "Wang"
+    ],
+    [
+     "Rongxin",
+     "Wu"
+    ],
+    [
+     "Haohao",
+     "Song"
+    ],
+    [
+     "Jiwu",
+     "Shu"
+    ],
+    [
+     "Guoqing",
+     "Li"
+    ]
+   ],
+   "s2_authors": [
+    "Chao Wang",
+    "Rong-Xin Wu",
+    "Haohao Song",
+    "J. Shu",
+    "Guo-Qing Li"
+   ],
+   "second_index": "agree"
+  },
+  "decan2019": {
+   "doi": "10.1007/s10664-017-9589-y",
+   "title": "An empirical comparison of dependency network evolution in seven software packaging ecosystems",
+   "container": "Empirical Software Engineering",
+   "year": 2018,
+   "volume": "24",
+   "issue": "1",
+   "page": "381-416",
+   "article": null,
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Alexandre",
+     "Decan"
+    ],
+    [
+     "Tom",
+     "Mens"
+    ],
+    [
+     "Philippe",
+     "Grosjean"
+    ]
+   ],
+   "s2_authors": [
+    "Alexandre Decan",
+    "T. Mens",
+    "P. Grosjean"
+   ],
+   "second_index": "agree"
+  },
+  "valiev2018": {
+   "doi": "10.1145/3236024.3236062",
+   "title": "Ecosystem-level determinants of sustained activity in open-source projects: a case study of the PyPI ecosystem",
+   "container": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+   "year": 2018,
+   "volume": null,
+   "issue": null,
+   "page": "644-655",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Marat",
+     "Valiev"
+    ],
+    [
+     "Bogdan",
+     "Vasilescu"
+    ],
+    [
+     "James",
+     "Herbsleb"
+    ]
+   ],
+   "s2_authors": [
+    "Marat Valiev",
+    "B. Vasilescu",
+    "J. Herbsleb"
+   ],
+   "second_index": "agree"
+  },
+  "kalliamvakou2014": {
+   "doi": "10.1145/2597073.2597074",
+   "title": "The promises and perils of mining GitHub",
+   "container": "Proceedings of the 11th Working Conference on Mining Software Repositories",
+   "year": 2014,
+   "volume": null,
+   "issue": null,
+   "page": "92-101",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Eirini",
+     "Kalliamvakou"
+    ],
+    [
+     "Georgios",
+     "Gousios"
+    ],
+    [
+     "Kelly",
+     "Blincoe"
+    ],
+    [
+     "Leif",
+     "Singer"
+    ],
+    [
+     "Daniel M.",
+     "German"
+    ],
+    [
+     "Daniela",
+     "Damian"
+    ]
+   ],
+   "s2_authors": [
+    "E. Kalliamvakou",
+    "G. Gousios",
+    "Kelly Blincoe",
+    "L. Singer",
+    "D. Germán",
+    "Daniela E. Damian"
+   ],
+   "second_index": "agree"
+  },
+  "nagappan2013": {
+   "doi": "10.1145/2491411.2491415",
+   "title": "Diversity in software engineering research",
+   "container": "Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering",
+   "year": 2013,
+   "volume": null,
+   "issue": null,
+   "page": "466-476",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Meiyappan",
+     "Nagappan"
+    ],
+    [
+     "Thomas",
+     "Zimmermann"
+    ],
+    [
+     "Christian",
+     "Bird"
+    ]
+   ],
+   "s2_authors": [
+    "M. Nagappan",
+    "Thomas Zimmermann",
+    "C. Bird"
+   ],
+   "second_index": "agree"
+  },
+  "scalabrino2019": {
+   "doi": "10.1109/msr.2019.00055",
+   "title": "Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study",
+   "container": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+   "year": 2019,
+   "volume": null,
+   "issue": null,
+   "page": "288-298",
+   "article": null,
+   "type": "proceedings-article",
+   "crossref_authors": [
+    [
+     "Simone",
+     "Scalabrino"
+    ],
+    [
+     "Gabriele",
+     "Bavota"
+    ],
+    [
+     "Mario",
+     "Linares-Vasquez"
+    ],
+    [
+     "Michele",
+     "Lanza"
+    ],
+    [
+     "Rocco",
+     "Oliveto"
+    ]
+   ],
+   "s2_authors": [
+    "Simone Scalabrino",
+    "G. Bavota",
+    "Mario Linares-Vásquez",
+    "Michele Lanza",
+    "R. Oliveto"
+   ],
+   "second_index": "agree"
+  },
+  "zerouali2019": {
+   "doi": "10.1002/smr.2157",
+   "title": "A formal framework for measuring technical lag in component repositories — and its application to npm",
+   "container": "Journal of Software: Evolution and Process",
+   "year": 2019,
+   "volume": "31",
+   "issue": "8",
+   "page": null,
+   "article": "e2157",
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Ahmed",
+     "Zerouali"
+    ],
+    [
+     "Tom",
+     "Mens"
+    ],
+    [
+     "Jesus",
+     "Gonzalez‐Barahona"
+    ],
+    [
+     "Alexandre",
+     "Decan"
+    ],
+    [
+     "Eleni",
+     "Constantinou"
+    ],
+    [
+     "Gregorio",
+     "Robles"
+    ]
+   ],
+   "s2_authors": [
+    "A. Zerouali",
+    "T. Mens",
+    "Jesus M. Gonzalez-Barahona",
+    "Alexandre Decan",
+    "Eleni Constantinou",
+    "G. Robles"
+   ],
+   "second_index": "agree"
+  },
+  "ochoa2022": {
+   "doi": "10.1007/s10664-021-10052-y",
+   "title": "Breaking bad? Semantic versioning and impact of breaking changes in Maven Central: An external and differentiated replication study",
+   "container": "Empirical Software Engineering",
+   "year": 2022,
+   "volume": "27",
+   "issue": "3",
+   "page": null,
+   "article": "61",
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Lina",
+     "Ochoa"
+    ],
+    [
+     "Thomas",
+     "Degueule"
+    ],
+    [
+     "Jean-Rémy",
+     "Falleri"
+    ],
+    [
+     "Jurgen",
+     "Vinju"
+    ]
+   ],
+   "s2_authors": [
+    "Lina Ochoa",
+    "Thomas Degueule",
+    "Jean-Rémy Falleri",
+    "J. Vinju"
+   ],
+   "second_index": "agree"
+  },
+  "gao2024": {
+   "doi": "10.1145/3660822",
+   "title": "PyRadar: Towards Automatically Retrieving and Validating Source Code Repository Information for PyPI Packages",
+   "container": "Proceedings of the ACM on Software Engineering",
+   "year": 2024,
+   "volume": "1",
+   "issue": "FSE",
+   "page": "2608-2631",
+   "article": null,
+   "type": "journal-article",
+   "crossref_authors": [
+    [
+     "Kai",
+     "Gao"
+    ],
+    [
+     "Weiwei",
+     "Xu"
+    ],
+    [
+     "Wenhao",
+     "Yang"
+    ],
+    [
+     "Minghui",
+     "Zhou"
+    ]
+   ],
+   "s2_authors": [
+    "Kai Gao",
+    "Wei-Wei Xu",
+    "Wen-Hao Yang",
+    "Ming-Hui Zhou"
+   ],
+   "second_index": "agree"
+  }
+ },
+ "web": {
+  "pep345": [
+   "PEP 345: Metadata for Python Software Packages 1.2",
+   "Jones R",
+   2005,
+   "https://peps.python.org/pep-0345/"
+  ],
+  "pep440": [
+   "PEP 440: Version Identification and Dependency Specification",
+   "Coghlan A, Stufft D",
+   2013,
+   "https://peps.python.org/pep-0440/"
+  ],
+  "pep425": [
+   "PEP 425: Compatibility Tags for Built Distributions",
+   "Holth D",
+   2012,
+   "https://peps.python.org/pep-0425/"
+  ],
+  "astdoc": [
+   "ast: Abstract Syntax Trees (Python 3.13 documentation)",
+   "Python Software Foundation",
+   2025,
+   "https://docs.python.org/3.13/library/ast.html"
+  ],
+  "vermin": [
+   "Vermin: Concurrently detect the minimum Python versions needed to run code, version 1.9.2",
+   "Kristensen M",
+   2026,
+   "https://github.com/netromdk/vermin"
+  ],
+  "toppypi": [
+   "Top PyPI Packages: monthly dump of the 15,000 most-downloaded packages",
+   "van Kemenade H",
+   2026,
+   "https://hugovk.github.io/top-pypi-packages/"
+  ]
+ }
+}

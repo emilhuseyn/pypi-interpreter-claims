@@ -1,0 +1,192 @@
+  u_drawn                      1500
+  u_readable                   1449
+  u_unreadable                 51
+  u_spec                         945 / 1449  =  65.2%  [62.7, 67.6]
+  u_nospec                       504 / 1449  =  34.8%  [32.4, 37.3]
+  u_speckind_ok                935
+  u_speckind_no_py3            9
+  u_speckind_unparsable        1
+  u_cls                          590 / 1449  =  40.7%  [38.2, 43.3]
+  u_whl                         1160 / 1449  =  80.1%  [77.9, 82.0]
+  u_combo_yyy                  442
+  u_combopct_yyy                 442 / 1449  =  30.5%  [28.2, 32.9]
+  u_combo_yyn                  16
+  u_combopct_yyn                  16 / 1449  =   1.1%  [0.7, 1.8]
+  u_combo_yny                  465
+  u_combopct_yny                 465 / 1449  =  32.1%  [29.7, 34.5]
+  u_combo_ynn                  22
+  u_combopct_ynn                  22 / 1449  =   1.5%  [1.0, 2.3]
+  u_combo_nyy                  75
+  u_combopct_nyy                  75 / 1449  =   5.2%  [4.1, 6.4]
+  u_combo_nyn                  57
+  u_combopct_nyn                  57 / 1449  =   3.9%  [3.0, 5.1]
+  u_combo_nny                  178
+  u_combopct_nny                 178 / 1449  =  12.3%  [10.7, 14.1]
+  u_combo_nnn                  194
+  u_combopct_nnn                 194 / 1449  =  13.4%  [11.7, 15.2]
+  u_both                         458 / 1449  =  31.6%  [29.3, 34.0]
+  u_specnocls                    487 / 1449  =  33.6%  [31.2, 36.1]
+  u_clsnospec                    132 / 1449  =   9.1%  [7.7, 10.7]
+  u_none                         194 / 1449  =  13.4%  [11.7, 15.2]
+  u_refused                       10 / 458   =   2.2%  [1.2, 4.0]
+  u_unreleased                 4
+  u_openend                    382
+  u_tagconstr                     35 / 907   =   3.9%  [2.8, 5.3]
+  u_taguniv                      872 / 907   =  96.1%  [94.7, 97.2]
+  u_status_no_distribution_under_cap 48
+  u_status_measured            1314
+  u_status_no_counted_python   54
+  u_status_no_python_read      33
+  u_measured                   1314
+  u_files                      23160
+  u_files_nevercompile         90
+  u_decl                       865
+  u_silent                     439
+  u_nopy3_meas                 10
+  u_flagged                       33 / 865   =   3.8%  [2.7, 5.3]
+  u_flag_syntax                26
+  u_flag_stdlib                12
+  u_adj_pending                0
+  u_confirmed                     32 / 865   =   3.7%  [2.6, 5.2]
+  u_artefact                   1
+  u_precision                     32 / 33    =  97.0%  [84.7, 99.5]
+  u_blocked                    5
+  u_conf_floor_le35            15
+  u_conf_syntax                26
+  u_conf_stdlib_only           6
+  u_deps_unread                4
+  u_installable                   27 / 865   =   3.1%  [2.2, 4.5]
+  u_excused                    0
+  u_excused_backport           0
+  u_anydepth_only              0
+  u_tooold                     0
+  u_guarded_same               22
+  u_unguarded_same             76
+  u_silent_need37              22
+  u_silent_need310             3
+  u_e1                             1 / 865   =   0.1%  [0.0, 0.7]
+  u_e1_confirmed               1
+  u_v1_cells                   207540
+  u_v1_agree                   197430
+  u_v1_fp                      0
+  u_v1_fn                      10110
+  u_v1_fn_files                8464
+  u_v1_fn_at_5                 5385
+  u_v1_fn_at_6                 4584
+  u_v1_fn_at_7                 78
+  u_v1_fn_at_8                 33
+  u_v1_fn_at_9                 9
+  u_v1_fn_at_10                9
+  u_v1_fn_at_11                8
+  u_v1_fn_at_12                2
+  u_v1_fn_at_13                2
+  u_flag_syntax_only_testable  15
+  u_v1_missed_flags            10
+  u_v2_equal                   1018
+  u_v2_verminundecided         5
+  u_v2_verminhigher            281
+  u_v2_ourshigher              10
+  u_v2_flag                    81
+  u_v2_flag_overlap            33
+  p_drawn                      1000
+  p_readable                   1000
+  p_unreadable                 0
+  p_spec                         930 / 1000  =  93.0%  [91.2, 94.4]
+  p_nospec                        70 / 1000  =   7.0%  [5.6, 8.8]
+  p_speckind_ok                930
+  p_speckind_no_py3            0
+  p_speckind_unparsable        0
+  p_cls                          822 / 1000  =  82.2%  [79.7, 84.4]
+  p_whl                          997 / 1000  =  99.7%  [99.1, 99.9]
+  p_combo_yyy                  777
+  p_combopct_yyy                 777 / 1000  =  77.7%  [75.0, 80.2]
+  p_combo_yyn                  1
+  p_combopct_yyn                   1 / 1000  =   0.1%  [0.0, 0.6]
+  p_combo_yny                  152
+  p_combopct_yny                 152 / 1000  =  15.2%  [13.1, 17.6]
+  p_combo_ynn                  0
+  p_combopct_ynn                   0 / 1000  =   0.0%  [0.0, 0.4]
+  p_combo_nyy                  43
+  p_combopct_nyy                  43 / 1000  =   4.3%  [3.2, 5.7]
+  p_combo_nyn                  1
+  p_combopct_nyn                   1 / 1000  =   0.1%  [0.0, 0.6]
+  p_combo_nny                  25
+  p_combopct_nny                  25 / 1000  =   2.5%  [1.7, 3.7]
+  p_combo_nnn                  1
+  p_combopct_nnn                   1 / 1000  =   0.1%  [0.0, 0.6]
+  p_both                         778 / 1000  =  77.8%  [75.1, 80.3]
+  p_specnocls                    152 / 1000  =  15.2%  [13.1, 17.6]
+  p_clsnospec                     44 / 1000  =   4.4%  [3.3, 5.9]
+  p_none                           1 / 1000  =   0.1%  [0.0, 0.6]
+  p_refused                        7 / 778   =   0.9%  [0.4, 1.8]
+  p_unreleased                 5
+  p_openend                    501
+  p_tagconstr                    134 / 929   =  14.4%  [12.3, 16.8]
+  p_taguniv                      795 / 929   =  85.6%  [83.2, 87.7]
+  p_status_measured            893
+  p_status_no_distribution_under_cap 60
+  p_status_no_counted_python   47
+  p_measured                   893
+  p_files                      54861
+  p_files_nevercompile         1
+  p_decl                       829
+  p_silent                     64
+  p_nopy3_meas                 0
+  p_flagged                        4 / 829   =   0.5%  [0.2, 1.2]
+  p_flag_syntax                3
+  p_flag_stdlib                2
+  p_adj_pending                0
+  p_confirmed                      2 / 829   =   0.2%  [0.1, 0.9]
+  p_artefact                   2
+  p_precision                      2 / 4     =  50.0%  [15.0, 85.0]
+  p_blocked                    0
+  p_conf_floor_le35            1
+  p_conf_syntax                2
+  p_conf_stdlib_only           0
+  p_deps_unread                0
+  p_installable                    2 / 829   =   0.2%  [0.1, 0.9]
+  p_excused                    0
+  p_excused_backport           0
+  p_anydepth_only              2
+  p_tooold                     0
+  p_guarded_same               87
+  p_unguarded_same             18
+  p_silent_need37              4
+  p_silent_need310             0
+  p_e1                             3 / 829   =   0.4%  [0.1, 1.1]
+  p_e1_confirmed               3
+  p_v1_cells                   493740
+  p_v1_agree                   467943
+  p_v1_fp                      0
+  p_v1_fn                      25797
+  p_v1_fn_files                20484
+  p_v1_fn_at_5                 10197
+  p_v1_fn_at_6                 15273
+  p_v1_fn_at_7                 184
+  p_v1_fn_at_8                 119
+  p_v1_fn_at_9                 12
+  p_v1_fn_at_10                9
+  p_v1_fn_at_11                3
+  p_v1_fn_at_12                0
+  p_v1_fn_at_13                0
+  p_flag_syntax_only_testable  1
+  p_v1_missed_flags            1
+  p_v2_equal                   385
+  p_v2_verminhigher            501
+  p_v2_verminundecided         2
+  p_v2_ourshigher              5
+  p_v2_flag                    242
+  p_v2_flag_overlap            4
+  vo_pool                      286
+  vo_sample                    20
+  vo_real                      4
+  vo_real_import               2
+  vo_real_function             2
+  vo_guarded                   16
+  u_pep758_projects            7
+  p_pep758_projects            0
+  old_flagged                  19
+  old_misfiled                 32
+  old_still_flagged            16
+  old_still_confirmed          15
+  u_index                      879335

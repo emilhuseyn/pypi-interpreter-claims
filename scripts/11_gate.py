@@ -206,6 +206,22 @@ def main():
                     failures.append("%d %s(s) in the BUILT PDF" % (n, name))
                 print("   %-4s %-34s %d" % ("ok" if not n else "FAIL",
                                             "%s in the built PDF" % name, n))
+            # LIGATURES, because one of them was going to be published. T1-encoded fonts form an ij
+            # ligature from a plain i followed by a plain j, and Wiley's build of this manuscript
+            # extracted the affiliation as "Azerba" + U+0133 + "an" and told us that exact string
+            # would appear on the article. Our own PDF did not show it, so nothing local caught it;
+            # only reading the portal's render did. A gate that checks the built PDF for these
+            # codepoints catches the whole family before an archive is ever uploaded. The remedy is
+            # an empty group between the two letters, which breaks the pair and prints nothing.
+            ligs = [("ĳ", "ij"), ("ﬀ", "ff"), ("ﬁ", "fi"), ("ﬂ", "fl"),
+                    ("ﬃ", "ffi"), ("ﬄ", "ffl"), ("ﬅ", "st"), ("ﬆ", "st")]
+            found = [(name, t.count(ch)) for ch, name in ligs if t.count(ch)]
+            if found:
+                failures.append("ligature codepoints in the BUILT PDF: %s"
+                                % ", ".join("%s x%d" % f for f in found))
+            print("   %-4s %-34s %s" % ("ok" if not found else "FAIL",
+                                        "ligature codepoints in the PDF",
+                                        ", ".join("%s x%d" % f for f in found) or "0"))
         except Exception:
             pass
     nonascii = sorted({c for c in bib if ord(c) > 127})
